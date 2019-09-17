@@ -1,8 +1,10 @@
 import pandas as pd
+from multiprocessing import Pool
 from requests import get
 from bs4 import BeautifulSoup
 
 def webScrapper(url):
+    movies, years, ratings, metascores, votes = [],[],[],[],[]
     response = get(url)
     htmlSoup = BeautifulSoup(response.text, 'html.parser')
     movieContainers = htmlSoup.find_all('div',class_ = 'lister-item mode-advanced')
@@ -21,18 +23,26 @@ def webScrapper(url):
             votes.append(int(movieContainer.find('span', attrs = {'name':'nv'})['data-value']))
         else:
             votes.append(int(0))
+    return (movies, years, ratings, metascores, votes)
 
 if __name__ == '__main__':
+    filename = 'imdbTop50From2000To2019.csv'
+    urls = ['https://www.imdb.com/search/title/?title_type=feature&release_date='+str(i) for i in range(2000,2020)]
     movies, years, ratings, metascores, votes = [],[],[],[],[]
-    urls = ['https://www.imdb.com/search/title/?title_type=feature&release_date='+str(i) for i in range(2000,2004)]
-    for url in urls:
-        webScrapper(url)
+    pool = Pool(10)
+    result = pool.map(webScrapper, urls)
+    pool.terminate()
+    pool.join()
+    for (moviesPerUrl, yearsPerUrl, ratingsPerUrl, metascoresPerUrl, votesPerUrl) in result:
+        movies.extend(moviesPerUrl)
+        years.extend(yearsPerUrl)
+        ratings.extend(ratingsPerUrl)
+        metascores.extend(metascoresPerUrl)
+        votes.extend(votesPerUrl)
     dataframe = pd.DataFrame({'Id':range(1,len(movies)+1),
                             'MovieName':movies,
                             'ReleaseYear':years,
                             'ImdbRating':ratings,
                             'Metascore':metascores,
                             'Votes':votes}).set_index('Id')
-    
-    filename = 'imdbtest'
     dataframe.to_csv(filename)
