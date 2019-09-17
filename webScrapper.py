@@ -1,7 +1,6 @@
 import pandas as pd
 from requests import get
 from bs4 import BeautifulSoup
-from random import randint
 
 def webScrapper(url):
     response = get(url)
