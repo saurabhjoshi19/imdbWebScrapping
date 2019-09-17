@@ -1,1001 +1,1001 @@
-Id,MovieName,ReleaseYear,ImdbRating,Metascore,Votes
-1,Gladiator,(2000),8.5,67.0,1231331
-2,American Psycho,(2000),7.6,64.0,438553
-3,Requiem for a Dream,(2000),8.3,68.0,709770
-4,X-Men,(2000),7.4,64.0,542800
-5,Snatch,(2000),8.3,,728049
-6,The Patriot,(2000),7.2,63.0,239985
-7,Memento,(2000),8.4,80.0,1043522
-8,Almost Famous,(2000),7.9,90.0,237134
-9,Road Trip,(2000),6.4,,149732
-10,Bring It On,(2000),6.0,,81979
-11,Scary Movie,(2000),6.2,,217221
-12,Cast Away,(2000),7.8,73.0,479475
-13,Malèna,(2000),7.5,,81407
-14,Unbreakable,(2000),7.3,62.0,359318
-15,Charlie's Angels,(2000),5.5,,165088
-16,Remember the Titans,(2000),7.8,,186077
-17,The Cell,(2000),6.3,,90610
-18,Billy Elliot,(2000),7.7,74.0,116984
-19,What Women Want,(2000),6.4,,182132
-20,Final Destination,(2000),6.7,,213937
-21,The Beach,(I) (2000),6.7,,210675
-22,Battlefield Earth,(2000),2.5,,73267
-23,Chocolat,(2000),7.2,64.0,169613
-24,"O Brother, Where Art Thou?",(2000),7.7,69.0,267388
-25,Traffic,(2000),7.6,86.0,187417
-26,Space Cowboys,(2000),6.4,73.0,69485
-27,Coyote Ugly,(2000),5.7,,101788
-28,Mission: Impossible II,(2000),6.1,,294527
-29,The Emperor's New Groove,(2000),7.3,70.0,164285
-30,"Me, Myself & Irene",(2000),6.6,,211580
-31,Gone in Sixty Seconds,(2000),6.5,,248154
-32,Erin Brockovich,(2000),7.3,73.0,160978
-33,The Legend of Bagger Vance,(2000),6.7,,51118
-34,The Perfect Storm,(2000),6.4,,148332
-35,The Gift,(2000),6.6,62.0,59483
-36,Hollow Man,(2000),5.8,,115929
-37,Tra(sgre)dire,(2000),5.5,,4396
-38,The Whole Nine Yards,(2000),6.7,,103930
-39,Miss Congeniality,(2000),6.2,,172348
-40,Little Nicky,(2000),5.3,,92675
-41,Pitch Black,(2000),7.1,,215654
-42,Wo hu cang long,(2000),7.8,93.0,241911
-43,The Replacements,(2000),6.6,,55034
-44,How the Grinch Stole Christmas,(2000),6.1,,185217
-45,Faa yeung nin wa,(2000),8.1,85.0,108006
-46,Shaft,(2000),5.9,,69433
-47,Sexy Beast,(2000),7.3,79.0,50720
-48,Batoru rowaiaru,(2000),7.6,81.0,160588
-49,Meet the Parents,(2000),7.0,73.0,295348
-50,Scream 3,(2000),5.5,,115636
-51,Harry Potter and the Sorcerer's Stone,(2001),7.6,64.0,578916
-52,The Lord of the Rings: The Fellowship of the Ring,(2001),8.8,92.0,1532686
-53,Donnie Darko,(2001),8.0,71.0,704807
-54,Sen to Chihiro no kamikakushi,(2001),8.6,96.0,569298
-55,A Knight's Tale,(2001),6.9,,159306
-56,Ocean's Eleven,(2001),7.8,74.0,479554
-57,Mulholland Dr.,(2001),7.9,83.0,294596
-58,Rat Race,(2001),6.4,,103586
-59,Training Day,(2001),7.7,69.0,361163
-60,The Fast and the Furious,(2001),6.8,,325294
-61,Black Hawk Down,(2001),7.7,74.0,343493
-62,A Beautiful Mind,(2001),8.2,72.0,781728
-63,Blow,(2001),7.6,,226173
-64,Legally Blonde,(2001),6.2,,168494
-65,"Monsters, Inc.",(2001),8.0,78.0,751979
-66,Pearl Harbor,(2001),6.2,,295654
-67,Not Another Teen Movie,(2001),5.7,,91776
-68,Amélie,(2001),8.3,69.0,659955
-69,Moulin Rouge!,(2001),7.6,66.0,253974
-70,Hannibal,(2001),6.8,,239316
-71,Thir13en Ghosts,(2001),5.6,,74780
-72,Shrek,(2001),7.8,84.0,570833
-73,Wet Hot American Summer,(2001),6.6,,50738
-74,Artificial Intelligence: AI,(2001),7.2,65.0,276935
-75,The Others,(2001),7.6,74.0,316988
-76,Bridget Jones's Diary,(2001),6.7,66.0,209385
-77,Y tu mamá también,(2001),7.6,88.0,108307
-78,The Princess Diaries,(2001),6.3,,118021
-79,Spy Kids,(2001),5.4,71.0,101052
-80,Vanilla Sky,(2001),6.9,,236265
-81,Jeepers Creepers,(2001),6.2,,103909
-82,Scary Movie 2,(2001),5.3,,140136
-83,The Mummy Returns,(2001),6.3,,286703
-84,Lucía y el sexo,(2001),7.1,65.0,33398
-85,The Royal Tenenbaums,(2001),7.6,76.0,248381
-86,Evolution,(2001),6.1,,113976
-87,Original Sin,(2001),6.1,,51028
-88,American Pie 2,(2001),6.4,,227555
-89,Lara Croft: Tomb Raider,(2001),5.8,,187522
-90,Hard Ball,(2001),6.4,,26600
-91,Swordfish,(2001),6.5,,170086
-92,Zoolander,(2001),6.6,61.0,233635
-93,Enemy at the Gates,(2001),7.6,,227215
-94,Gosford Park,(2001),7.2,90.0,74567
-95,Planet of the Apes,(2001),5.7,,202902
-96,Rush Hour 2,(2001),6.6,,187763
-97,Monster's Ball,(2001),7.0,69.0,79194
-98,Jurassic Park III,(2001),5.9,,278100
-99,Ghost World,(2001),7.3,88.0,107670
-100,Jay and Silent Bob Strike Back,(2001),6.8,,142341
-101,The Lord of the Rings: The Two Towers,(2002),8.7,87.0,1372164
-102,Gangs of New York,(2002),7.5,72.0,376521
-103,Spider-Man,(2002),7.3,73.0,648747
-104,Harry Potter and the Chamber of Secrets,(2002),7.4,63.0,501076
-105,The Pianist,(2002),8.5,85.0,656096
-106,Irréversible,(2002),7.4,,108859
-107,Catch Me If You Can,(2002),8.1,75.0,734534
-108,Cidade de Deus,(2002),8.6,79.0,653290
-109,Star Wars: Episode II - Attack of the Clones,(2002),6.6,,582922
-110,Minority Report,(2002),7.6,80.0,475100
-111,28 Days Later...,(2002),7.6,73.0,349328
-112,8 Mile,(2002),7.1,77.0,231500
-113,Secretary,(2002),7.0,63.0,77903
-114,Signs,(2002),6.7,,319930
-115,Road to Perdition,(2002),7.7,72.0,230298
-116,Panic Room,(2002),6.8,65.0,240379
-117,Scooby-Doo,(2002),5.0,,89331
-118,Chicago,(2002),7.1,82.0,203124
-119,Red Dragon,(2002),7.2,,234075
-120,Ghost Ship,(2002),5.5,,88459
-121,The Count of Monte Cristo,(2002),7.7,61.0,121580
-122,The Bourne Identity,(2002),7.9,68.0,479697
-123,Sweet Home Alabama,(2002),6.2,,96527
-124,Unfaithful,(2002),6.7,63.0,74476
-125,The Ring,(2002),7.1,,301277
-126,Men in Black II,(2002),6.2,,319766
-127,A Walk to Remember,(2002),7.4,,189944
-128,About a Boy,(2002),7.0,75.0,163231
-129,Cabin Fever,(2002),5.6,,70602
-130,Resident Evil,(2002),6.7,,234052
-131,Equilibrium,(2002),7.4,,298429
-132,Insomnia,(2002),7.2,78.0,256278
-133,Punch-Drunk Love,(2002),7.3,78.0,134699
-134,Ice Age,(2002),7.5,,408785
-135,Van Wilder,(2002),6.4,,99195
-136,Lilo & Stitch,(2002),7.2,73.0,153268
-137,Die Another Day,(2002),6.1,,193613
-138,The Hours,(2002),7.5,80.0,117819
-139,My Big Fat Greek Wedding,(2002),6.5,62.0,114513
-140,Austin Powers in Goldmember,(2002),6.2,62.0,186013
-141,Frida,(2002),7.4,61.0,75409
-142,The Time Machine,(2002),6.0,,113777
-143,The Transporter,(2002),6.8,,271972
-144,Star Trek: Nemesis,(2002),6.4,,68812
-145,We Were Soldiers,(2002),7.1,65.0,122459
-146,Bend It Like Beckham,(2002),6.6,66.0,100011
-147,Adaptation.,(2002),7.7,83.0,166547
-148,The Sum of All Fears,(2002),6.4,,97741
-149,Maid in Manhattan,(2002),5.2,,79605
-150,Treasure Planet,(2002),7.2,,92222
-151,The Lord of the Rings: The Return of the King,(2003),8.9,94.0,1517014
-152,Kill Bill: Vol. 1,(2003),8.1,69.0,922442
-153,Bad Boys II,(2003),6.6,,208856
-154,The Matrix Reloaded,(2003),7.2,62.0,484798
-155,Mystic River,(2003),7.9,84.0,392629
-156,Big Fish,(2003),8.0,,393140
-157,Pirates of the Caribbean: The Curse of the Black Pearl,(2003),8.0,63.0,972829
-158,Terminator 3: Rise of the Machines,(2003),6.3,66.0,354046
-159,The Matrix Revolutions,(2003),6.7,,420872
-160,Love Actually,(2003),7.6,,389198
-161,Old School,(2003),7.1,,205321
-162,Oldeuboi,(2003),8.4,77.0,466541
-163,The Room,(2003),3.7,,73867
-164,Secondhand Lions,(2003),7.5,,48959
-165,Lost in Translation,(2003),7.7,89.0,378496
-166,The Dreamers,(2003),7.2,62.0,102176
-167,House of 1000 Corpses,(2003),6.1,,70213
-168,X2,(2003),7.4,68.0,486938
-169,The League of Extraordinary Gentlemen,(2003),5.8,,158820
-170,The Last Samurai,(2003),7.7,,374183
-171,Finding Nemo,(2003),8.1,90.0,880908
-172,Monster,(2003),7.3,74.0,126109
-173,Salinui chueok,(2003),8.1,82.0,104492
-174,Peter Pan,(2003),6.8,64.0,62260
-175,How to Lose a Guy in 10 Days,(2003),6.4,,193697
-176,The Italian Job,(2003),7.0,68.0,325297
-177,Holes,(2003),7.0,71.0,71104
-178,Underworld,(2003),7.0,,241549
-179,The School of Rock,(2003),7.1,82.0,248300
-180,Identity,(2003),7.3,64.0,211843
-181,Master and Commander: The Far Side of the World,(2003),7.4,81.0,191025
-182,Daredevil,(2003),5.3,,199025
-183,Dogville,(2003),8.0,,127885
-184,Once Upon a Time in Mexico,(2003),6.4,,146627
-185,Hulk,(2003),5.6,,241676
-186,The Texas Chainsaw Massacre,(2003),6.2,,124106
-187,Cold Mountain,(2003),7.2,73.0,133186
-188,Wrong Turn,(I) (2003),6.1,,102281
-189,What a Girl Wants,(2003),5.8,,55746
-190,2 Fast 2 Furious,(2003),5.9,,235202
-191,Thirteen,(2003),6.8,70.0,76409
-192,Cheaper by the Dozen,(2003),5.8,,87981
-193,Charlie's Angels: Full Throttle,(2003),4.9,,113960
-194,Something's Gotta Give,(2003),6.7,66.0,104695
-195,The Cat in the Hat,(2003),3.9,,47048
-196,The Rundown,(2003),6.7,,96542
-197,Daddy Day Care,(2003),5.5,,59486
-198,Haute tension,(2003),6.8,,63627
-199,Tears of the Sun,(2003),6.6,,107732
-200,Bruce Almighty,(2003),6.7,,349943
-201,Mean Girls,(2004),7.0,66.0,306309
-202,Kill Bill: Vol. 2,(2004),8.0,83.0,628669
-203,Harry Potter and the Prisoner of Azkaban,(2004),7.9,82.0,497682
-204,Dodgeball: A True Underdog Story,(2004),6.7,,216206
-205,Troy,(2004),7.2,,457695
-206,The Notebook,(2004),7.8,,482219
-207,The Phantom of the Opera,(2004),7.3,,110658
-208,Eternal Sunshine of the Spotless Mind,(2004),8.3,89.0,836559
-209,The Incredibles,(2004),8.0,90.0,612655
-210,The Aviator,(2004),7.5,77.0,311594
-211,Shaun of the Dead,(2004),7.9,76.0,475804
-212,Napoleon Dynamite,(2004),6.9,64.0,186444
-213,Hellboy,(2004),6.8,72.0,293221
-214,Man on Fire,(2004),7.7,,310958
-215,Saw,(2004),7.6,,355914
-216,The Machinist,(2004),7.7,61.0,332933
-217,Crash,(I) (2004),7.8,69.0,403106
-218,Van Helsing,(2004),6.1,,231675
-219,The Day After Tomorrow,(2004),6.4,,390832
-220,White Chicks,(2004),5.6,,120674
-221,The Punisher,(2004),6.4,,143542
-222,50 First Dates,(2004),6.8,,307445
-223,13 Going on 30,(2004),6.1,,152379
-224,Spider-Man 2,(2004),7.3,83.0,508077
-225,The Village,(2004),6.5,,229914
-226,National Treasure,(2004),6.8,,287639
-227,EuroTrip,(2004),6.6,,184225
-228,Anchorman: The Legend of Ron Burgundy,(2004),7.2,63.0,311742
-229,The Girl Next Door,(2004),6.7,,192088
-230,Ocean's Twelve,(2004),6.5,,335129
-231,Hauru no ugoku shiro,(2004),8.2,80.0,287991
-232,King Arthur,(2004),6.3,,152997
-233,Starsky & Hutch,(2004),6.1,,132809
-234,A Series of Unfortunate Events,(2004),6.8,62.0,186311
-235,"I, Robot",(2004),7.1,,469706
-236,Million Dollar Baby,(2004),8.1,86.0,592917
-237,9 Songs,(2004),4.8,,20491
-238,Der Untergang,(2004),8.2,82.0,309521
-239,The Butterfly Effect,(2004),7.6,,425801
-240,Collateral,(2004),7.5,71.0,338458
-241,Closer,(I) (2004),7.2,65.0,192163
-242,Layer Cake,(2004),7.3,73.0,155685
-243,The Passion of the Christ,(2004),7.1,,202729
-244,Dawn of the Dead,(2004),7.3,,222384
-245,The Terminal,(2004),7.3,,371063
-246,The Bourne Supremacy,(2004),7.7,73.0,411164
-247,The Manchurian Candidate,(2004),6.6,76.0,98239
-248,The Chronicles of Riddick,(2004),6.7,,205658
-249,Harold & Kumar Go to White Castle,(2004),7.1,64.0,173446
-250,Kung fu,(2004),7.7,78.0,118287
-251,Batman Begins,(2005),8.2,70.0,1210866
-252,Harry Potter and the Goblet of Fire,(2005),7.7,81.0,496613
-253,Pride & Prejudice,(2005),7.8,82.0,233548
-254,Walk the Line,(2005),7.8,72.0,215231
-255,Sin City,(2005),8.0,74.0,719161
-256,Star Wars: Episode III - Revenge of the Sith,(2005),7.5,68.0,648958
-257,Charlie and the Chocolate Factory,(2005),6.6,72.0,394706
-258,Brokeback Mountain,(2005),7.7,87.0,303031
-259,V for Vendetta,(2005),8.2,62.0,962842
-260,The Longest Yard,(2005),6.4,,152218
-261,Wedding Crashers,(2005),6.9,64.0,317164
-262,Constantine,(2005),7.0,,283169
-263,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",(2005),6.9,75.0,343740
-264,Kingdom of Heaven,(2005),7.2,63.0,252621
-265,Mr. & Mrs. Smith,(2005),6.5,,422259
-266,The Pacifier,(2005),5.6,,81539
-267,Serenity,(2005),7.8,74.0,272361
-268,The 40 Year Old Virgin,(2005),7.1,73.0,369329
-269,The Descent,(2005),7.2,71.0,186973
-270,King Kong,(2005),7.2,81.0,370958
-271,Hostel,(2005),5.9,,160569
-272,The Island,(2005),6.8,,289794
-273,Match Point,(2005),7.6,72.0,193299
-274,The Devil's Rejects,(2005),6.8,,86917
-275,War of the Worlds,(2005),6.5,73.0,391674
-276,Fantastic Four,(I) (2005),5.7,,299524
-277,The Brothers Grimm,(2005),5.9,,111387
-278,Doom,(2005),5.2,,100621
-279,Elektra,(2005),4.7,,83044
-280,Hitch,(I) (2005),6.6,,280603
-281,Munich,(2005),7.5,74.0,200334
-282,Thank You for Smoking,(2005),7.6,71.0,206967
-283,Elizabethtown,(2005),6.4,,64706
-284,Sky High,(2005),6.1,62.0,73081
-285,Just Like Heaven,(2005),6.7,,93985
-286,Madagascar,(2005),6.9,,337849
-287,Nanny McPhee,(2005),6.5,,62523
-288,The Dukes of Hazzard,(2005),5.1,,72928
-289,The Sisterhood of the Traveling Pants,(2005),6.5,66.0,51478
-290,Be Cool,(2005),5.6,,65113
-291,House of Wax,(2005),5.3,,109109
-292,Hustle & Flow,(2005),7.3,68.0,36995
-293,The Hitchhiker's Guide to the Galaxy,(2005),6.7,63.0,178890
-294,Kiss Kiss Bang Bang,(2005),7.5,72.0,204222
-295,A History of Violence,(2005),7.4,81.0,212718
-296,Rumor Has It...,(2005),5.5,,49201
-297,The New World,(2005),6.7,69.0,79127
-298,The Amityville Horror,(2005),6.0,,100153
-299,Just Friends,(I) (2005),6.2,,98698
-300,Memoirs of a Geisha,(2005),7.4,,132568
-301,300,(2006),7.7,,698525
-302,The Departed,(2006),8.5,85.0,1092296
-303,The Prestige,(2006),8.5,66.0,1082925
-304,Marie Antoinette,(2006),6.4,65.0,94043
-305,Pan's Labyrinth,(2006),8.2,98.0,579089
-306,Casino Royale,(2006),8.0,80.0,544485
-307,The Pursuit of Happyness,(2006),8.0,64.0,411059
-308,The Devil Wears Prada,(2006),6.9,62.0,344336
-309,X-Men: The Last Stand,(2006),6.7,,458955
-310,Idiocracy,(2006),6.6,66.0,134081
-311,The Hills Have Eyes,(2006),6.4,,150369
-312,Pirates of the Caribbean: Dead Man's Chest,(2006),7.3,,619242
-313,Apocalypto,(2006),7.8,68.0,273070
-314,Cars,(2006),7.1,73.0,335873
-315,The Lives of Others,(2006),8.4,89.0,328061
-316,Mission: Impossible III,(2006),6.9,66.0,310246
-317,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,(2006),7.3,89.0,335212
-318,Children of Men,(2006),7.9,84.0,433744
-319,Talladega Nights: The Ballad of Ricky Bobby,(2006),6.6,66.0,156134
-320,The Da Vinci Code,(2006),6.6,,376254
-321,The Fast and the Furious: Tokyo Drift,(2006),6.0,,223172
-322,Stranger Than Fiction,(2006),7.6,67.0,208845
-323,Black Christmas,(2006),4.5,,23187
-324,Black Snake Moan,(2006),6.9,,58767
-325,Beerfest,(2006),6.3,,61476
-326,The Holiday,(2006),6.9,,222768
-327,Little Miss Sunshine,(2006),7.8,80.0,413717
-328,The Lake House,(2006),6.8,,131630
-329,She's the Man,(2006),6.3,,138396
-330,Smokin' Aces,(2006),6.7,,132301
-331,Poseidon,(2006),5.6,,93054
-332,Blood Diamond,(2006),8.0,64.0,467749
-333,Inside Man,(2006),7.6,76.0,316601
-334,Step Up,(2006),6.5,,105250
-335,Ultraviolet,(2006),4.4,,76990
-336,Night at the Museum,(2006),6.4,,290983
-337,Rocky Balboa,(2006),7.1,63.0,192713
-338,Superman Returns,(2006),6.0,72.0,261922
-339,Perfume: The Story of a Murderer,(2006),7.5,,221834
-340,Babel,(I) (2006),7.4,69.0,275452
-341,Open Season,(2006),6.1,,79990
-342,Silent Hill,(2006),6.5,,204274
-343,The Break-Up,(2006),5.8,,118472
-344,Little Children,(2006),7.5,75.0,101355
-345,Facing the Giants,(2006),6.6,,14710
-346,The Fall,(2006),7.9,64.0,102466
-347,Failure to Launch,(2006),5.6,,68060
-348,Gwoemul,(2006),7.0,85.0,86851
-349,Grandma's Boy,(2006),7.0,,74275
-350,Click,(2006),6.4,,286847
-351,Superbad,(2007),7.6,76.0,489152
-352,Zodiac,(2007),7.7,78.0,401173
-353,Death Proof,(2007),7.0,,250276
-354,No Country for Old Men,(2007),8.1,91.0,778225
-355,Gone Baby Gone,(2007),7.6,72.0,236542
-356,Harry Potter and the Order of the Phoenix,(2007),7.5,71.0,461332
-357,Spider-Man 3,(2007),6.2,,467943
-358,Into the Wild,(2007),8.1,73.0,530543
-359,Hot Fuzz,(2007),7.8,81.0,431298
-360,There Will Be Blood,(2007),8.1,93.0,470180
-361,Atonement,(2007),7.8,85.0,230885
-362,Transformers,(2007),7.0,61.0,573538
-363,Stardust,(2007),7.6,66.0,240779
-364,Pirates of the Caribbean: At World's End,(2007),7.1,,562484
-365,Juno,(2007),7.4,81.0,469479
-366,Charlie Wilson's War,(2007),7.0,69.0,101601
-367,Ratatouille,(2007),8.0,96.0,589457
-368,I Am Legend,(2007),7.2,65.0,641585
-369,Grindhouse,(2007),7.5,77.0,171535
-370,American Gangster,(2007),7.8,76.0,370681
-371,Ocean's Thirteen,(2007),6.9,62.0,300581
-372,Sunshine,(2007),7.2,64.0,222052
-373,3:10 to Yuma,(2007),7.7,76.0,272487
-374,Shooter,(I) (2007),7.2,,294507
-375,Fracture,(2007),7.2,68.0,171531
-376,Planet Terror,(2007),7.1,,190955
-377,The Mist,(2007),7.1,,263831
-378,The Girl Next Door,(2007),6.6,,21736
-379,Enchanted,(2007),7.0,75.0,166904
-380,Knocked Up,(2007),6.9,85.0,334779
-381,The Golden Compass,(2007),6.1,,169125
-382,Sweeney Todd: The Demon Barber of Fleet Street,(2007),7.3,83.0,325399
-383,The Assassination of Jesse James by the Coward Robert Ford,(2007),7.5,68.0,158446
-384,Good Luck Chuck,(2007),5.6,,82109
-385,Funny Games,(2007),6.5,,84575
-386,P.S. I Love You,(2007),7.0,,192723
-387,Halloween,(2007),6.1,,103347
-388,Death at a Funeral,(2007),7.4,67.0,103331
-389,We Own the Night,(2007),6.8,,80579
-390,Hot Rod,(2007),6.7,,70407
-391,Bridge to Terabithia,(2007),7.1,74.0,133302
-392,Hairspray,(2007),6.6,81.0,114085
-393,National Treasure: Book of Secrets,(2007),6.5,,207138
-394,Live Free or Die Hard,(2007),7.1,69.0,373743
-395,Meet the Robinsons,(2007),6.8,61.0,80961
-396,Next,(2007),6.2,,141350
-397,Trick 'r Treat,(2007),6.8,,74520
-398,Beowulf,(2007),6.2,,155982
-399,Ghost Rider,(2007),5.2,,211599
-400,Across the Universe,(2007),7.4,,102242
-401,The Dark Knight,(2008),9.0,84.0,2097710
-402,The Hottie & the Nottie,(2008),1.9,,35487
-403,You Don't Mess with the Zohan,(2008),5.5,,179543
-404,Twilight,(I) (2008),5.2,,398563
-405,Iron Man,(2008),7.9,79.0,879388
-406,The House Bunny,(2008),5.5,,75010
-407,Tropic Thunder,(2008),7.0,71.0,355538
-408,Rambo,(2008),7.0,,204101
-409,The Curious Case of Benjamin Button,(2008),7.8,70.0,546299
-410,Wanted,(2008),6.7,64.0,343818
-411,The Incredible Hulk,(2008),6.7,61.0,408572
-412,In Bruges,(2008),7.9,67.0,366737
-413,Quantum of Solace,(2008),6.6,,380941
-414,Mamma Mia!,(2008),6.4,,197235
-415,Martyrs,(2008),7.1,,75733
-416,Revolutionary Road,(2008),7.3,69.0,180788
-417,Largo Winch,(2008),6.5,,12821
-418,The Hurt Locker,(2008),7.6,94.0,396715
-419,Step Brothers,(2008),6.9,,249863
-420,Pineapple Express,(2008),7.0,64.0,297552
-421,The Midnight Meat Train,(2008),6.1,,56063
-422,Taken,(I) (2008),7.8,,542379
-423,Gran Torino,(2008),8.1,72.0,677126
-424,Forgetting Sarah Marshall,(2008),7.1,67.0,250163
-425,Seven Pounds,(2008),7.6,,271166
-426,Slumdog Millionaire,(2008),8.0,86.0,754111
-427,Sex and the City,(2008),5.6,,111141
-428,Burn After Reading,(2008),7.0,63.0,290873
-429,Hellboy II: The Golden Army,(2008),7.0,78.0,244883
-430,Cloverfield,(2008),7.0,64.0,354452
-431,WALL·E,(2008),8.4,95.0,921193
-432,The Boy in the Striped Pyjamas,(2008),7.8,,173444
-433,Get Smart,(2008),6.5,,191995
-434,Hancock,(2008),6.4,,417362
-435,Vicky Cristina Barcelona,(2008),7.1,70.0,229645
-436,27 Dresses,(2008),6.1,,146272
-437,The Reader,(2008),7.6,,219558
-438,Indiana Jones and the Kingdom of the Crystal Skull,(2008),6.1,65.0,397869
-439,RocknRolla,(2008),7.3,,221860
-440,Sex Drive,(2008),6.5,,80351
-441,Doomsday,(2008),6.0,,69682
-442,The Strangers,(2008),6.2,,111454
-443,Role Models,(2008),6.8,61.0,212772
-444,Kung Fu Panda,(2008),7.5,73.0,387426
-445,Body of Lies,(2008),7.1,,201394
-446,The Women,(I) (2008),5.0,,19430
-447,Two Lovers,(2008),7.0,74.0,34333
-448,Disaster Movie,(2008),1.9,,83691
-449,The Day the Earth Stood Still,(2008),5.5,,157017
-450,Australia,(2008),6.6,,114618
-451,Inglourious Basterds,(2009),8.3,69.0,1147037
-452,The Hangover,(2009),7.7,73.0,677421
-453,Watchmen,(2009),7.6,,459887
-454,Avatar,(2009),7.8,83.0,1057844
-455,The Princess and the Frog,(2009),7.1,73.0,111976
-456,Harry Potter and the Half-Blood Prince,(2009),7.6,78.0,425741
-457,Zombieland,(2009),7.6,73.0,468047
-458,Terminator Salvation,(2009),6.5,,324003
-459,X-Men Origins: Wolverine,(2009),6.6,,442970
-460,The Blind Side,(2009),7.6,,270811
-461,Star Trek,(2009),7.9,82.0,559562
-462,Sherlock Holmes,(2009),7.6,,553730
-463,2012,(I) (2009),5.8,,331599
-464,My Sister's Keeper,(2009),7.4,,85624
-465,Law Abiding Citizen,(2009),7.4,,255735
-466,3 Idiots,(2009),8.4,67.0,306579
-467,Jennifer's Body,(2009),5.2,,107403
-468,The Proposal,(I) (2009),6.7,,276004
-469,Up in the Air,(I) (2009),7.4,83.0,303342
-470,He's Just Not That Into You,(2009),6.4,,151083
-471,The Taking of Pelham 123,(2009),6.4,,175314
-472,Up,(2009),8.2,88.0,860156
-473,District 9,(2009),7.9,81.0,609582
-474,Coraline,(2009),7.7,80.0,180601
-475,(500) Days of Summer,(2009),7.7,76.0,445781
-476,Splice,(2009),5.7,66.0,88651
-477,Public Enemies,(2009),7.0,70.0,263794
-478,Antichrist,(2009),6.6,,108034
-479,Fast & Furious,(2009),6.6,,246098
-480,Brothers,(I) (2009),7.1,,104343
-481,Enter the Void,(2009),7.3,69.0,62530
-482,G.I. Joe: The Rise of Cobra,(2009),5.8,,192182
-483,The Lovely Bones,(2009),6.7,,147114
-484,Mr. Nobody,(2009),7.8,63.0,200125
-485,Angels & Demons,(2009),6.7,,255767
-486,Cirque du Freak: The Vampire's Assistant,(2009),5.9,,41123
-487,Daybreakers,(2009),6.4,,117560
-488,Män som hatar kvinnor,(2009),7.8,76.0,199537
-489,Kynodontas,(2009),7.3,73.0,70607
-490,The Ugly Truth,(2009),6.4,,192209
-491,The Imaginarium of Doctor Parnassus,(2009),6.8,65.0,139443
-492,The Boat That Rocked,(2009),7.4,,103089
-493,The Human Centipede (First Sequence),(2009),4.4,,68615
-494,Transformers: Revenge of the Fallen,(2009),6.0,,367956
-495,Push,(2009),6.1,,101408
-496,Case 39,(2009),6.2,,72581
-497,The Road,(I) (2009),7.2,64.0,209929
-498,El secreto de sus ojos,(2009),8.2,80.0,175560
-499,Moon,(2009),7.9,67.0,315132
-500,Friday the 13th,(2009),5.5,,90239
-501,Inception,(2010),8.8,74.0,1870627
-502,Shutter Island,(2010),8.1,63.0,1023591
-503,Clash of the Titans,(2010),5.8,,258951
-504,Harry Potter and the Deathly Hallows: Part 1,(2010),7.7,65.0,432681
-505,Scott Pilgrim vs. the World,(2010),7.5,69.0,344179
-506,The Losers,(I) (2010),6.3,,85404
-507,True Grit,(2010),7.6,80.0,287888
-508,Black Swan,(2010),8.0,79.0,656381
-509,The Social Network,(2010),7.7,95.0,575135
-510,The King's Speech,(2010),8.0,88.0,599950
-511,Toy Story 3,(2010),8.3,92.0,698805
-512,Iron Man 2,(2010),7.0,,670156
-513,Kick-Ass,(2010),7.6,66.0,501827
-514,The Town,(2010),7.5,74.0,326277
-515,The Book of Eli,(2010),6.9,,275217
-516,Due Date,(2010),6.5,,306681
-517,Tron,(2010),6.8,,298683
-518,Tangled,(2010),7.7,71.0,372250
-519,Insidious,(I) (2010),6.8,,258267
-520,Grown Ups,(I) (2010),5.9,,213710
-521,Srpski film,(2010),5.1,,52263
-522,Easy A,(2010),7.1,72.0,334643
-523,The Other Guys,(2010),6.6,64.0,224570
-524,I'm Still Here,(I) (2010),6.2,,18837
-525,Burlesque,(I) (2010),6.4,,71929
-526,It's Kind of a Funny Story,(2010),7.1,63.0,126940
-527,How to Train Your Dragon,(2010),8.1,74.0,619662
-528,Love & Other Drugs,(2010),6.7,,169608
-529,Blue Valentine,(2010),7.4,81.0,172068
-530,Incendies,(2010),8.3,80.0,127150
-531,127 Hours,(2010),7.6,82.0,327685
-532,The Next Three Days,(2010),7.4,,170279
-533,The A-Team,(2010),6.7,,237142
-534,RED,(2010),7.0,,273878
-535,Hot Tub Time Machine,(2010),6.4,63.0,155229
-536,Jonah Hex,(2010),4.7,,52412
-537,Megamind,(2010),7.2,63.0,211150
-538,Percy Jackson & the Olympians: The Lightning Thief,(2010),5.9,,166889
-539,Knight and Day,(2010),6.3,,171265
-540,The Fighter,(I) (2010),7.8,79.0,319485
-541,A Nightmare on Elm Street,(2010),5.2,,86432
-542,I Spit on Your Grave,(2010),6.3,,69574
-543,The Tourist,(I) (2010),6.0,,209059
-544,The Last Airbender,(2010),4.1,,139061
-545,The Expendables,(2010),6.5,,310644
-546,Alice in Wonderland,(I) (2010),6.4,,362446
-547,Robin Hood,(2010),6.6,,241491
-548,Habitación en Roma,(2010),6.1,,20739
-549,Despicable Me,(2010),7.6,72.0,470448
-550,Faster,(2010),6.4,,94437
-551,Harry Potter and the Deathly Hallows: Part 2,(2011),8.1,87.0,701638
-552,Captain America: The First Avenger,(2011),6.9,66.0,681545
-553,X: First Class,(2011),7.7,65.0,616650
-554,Thor,(2011),7.0,,695617
-555,The Cabin in the Woods,(2011),7.0,72.0,343694
-556,Bridesmaids,(I) (2011),6.8,75.0,252389
-557,The Girl with the Dragon Tattoo,(2011),7.8,71.0,391966
-558,The Help,(2011),8.1,62.0,397416
-559,Bad Teacher,(2011),5.6,,182950
-560,Moneyball,(2011),7.6,87.0,331190
-561,The Lincoln Lawyer,(2011),7.3,63.0,197982
-562,Drive,(I) (2011),7.8,78.0,528211
-563,The Intouchables,(2011),8.5,,689325
-564,Immortals,(2011),6.0,,154114
-565,In Time,(2011),6.7,,349390
-566,Just Go with It,(2011),6.4,,204781
-567,Sucker Punch,(2011),6.0,,219940
-568,Limitless,(I) (2011),7.4,,497685
-569,I Am Number Four,(2011),6.1,,219408
-570,"Crazy, Stupid, Love.",(2011),7.4,68.0,441247
-571,The Tree of Life,(2011),6.8,85.0,157742
-572,Horrible Bosses,(2011),6.9,,402187
-573,Friends with Benefits,(2011),6.5,63.0,320693
-574,Midnight in Paris,(2011),7.7,81.0,360713
-575,Mission: Impossible - Ghost Protocol,(2011),7.4,73.0,432732
-576,No Strings Attached,(I) (2011),6.2,,199926
-577,Warrior,(2011),8.2,71.0,407936
-578,Tinker Tailor Soldier Spy,(2011),7.1,85.0,176399
-579,Pirates of the Caribbean: On Stranger Tides,(2011),6.6,,452694
-580,Melancholia,(2011),7.1,80.0,155277
-581,Sherlock Holmes: A Game of Shadows,(2011),7.5,,398011
-582,Transformers: Dark of the Moon,(2011),6.2,,369294
-583,Shame,(2011),7.2,72.0,172895
-584,Fast Five,(2011),7.3,66.0,333972
-585,Footloose,(2011),5.9,,43751
-586,Green Lantern,(2011),5.5,,254337
-587,Hugo,(2011),7.5,83.0,287209
-588,The Adjustment Bureau,(2011),7.0,,230007
-589,The Hangover Part II,(2011),6.4,,437531
-590,The Three Musketeers,(2011),5.7,,99083
-591,Sleeping Beauty,(2011),5.2,,29540
-592,Contagion,(2011),6.6,70.0,203062
-593,Scream 4,(2011),6.1,,119966
-594,Hanna,(2011),6.8,65.0,180488
-595,Kill Bill: The Whole Bloody Affair,(2011),8.8,,4003
-596,Serbuan Maut,(2011),7.6,73.0,178200
-597,The Dilemma,(2011),5.3,,48716
-598,Source Code,(2011),7.5,74.0,457023
-599,Something Borrowed,(2011),5.9,,54828
-600,Super 8,(2011),7.0,72.0,322641
-601,Django Unchained,(2012),8.4,81.0,1234314
-602,The Avengers,(2012),8.0,69.0,1198384
-603,The Dark Knight Rises,(2012),8.4,78.0,1405750
-604,The Hunger Games,(2012),7.2,68.0,802253
-605,The Master,(2012),7.2,86.0,133918
-606,Pitch Perfect,(2012),7.2,66.0,259656
-607,John Carter,(2012),6.6,,243972
-608,Cloud Atlas,(2012),7.4,,329141
-609,The Hobbit: An Unexpected Journey,(2012),7.8,,724860
-610,Snow White and the Huntsman,(2012),6.1,,261106
-611,Zero Dark Thirty,(2012),7.4,95.0,254018
-612,Lo imposible,(2012),7.6,73.0,180934
-613,Les Misérables,(2012),7.6,63.0,289088
-614,Prometheus,(I) (2012),7.0,64.0,543205
-615,The Amazing Spider-Man,(2012),6.9,66.0,531979
-616,Spring Breakers,(2012),5.3,63.0,128070
-617,The Perks of Being a Wallflower,(2012),8.0,67.0,427058
-618,21 Jump Street,(2012),7.2,69.0,482895
-619,Argo,(2012),7.7,86.0,540121
-620,Men in Black 3,(2012),6.8,,315649
-621,Silver Linings Playbook,(2012),7.7,81.0,626307
-622,Skyfall,(2012),7.7,81.0,597020
-623,Looper,(2012),7.4,84.0,505632
-624,Anna Karenina,(I) (2012),6.6,63.0,85693
-625,Lincoln,(2012),7.3,86.0,231027
-626,Moonrise Kingdom,(2012),7.8,84.0,295110
-627,Jagten,(2012),8.3,77.0,247177
-628,The Twilight Saga: Breaking Dawn - Part 2,(2012),5.5,,217347
-629,Wrath of the Titans,(2012),5.7,,173957
-630,Flight,(I) (2012),7.3,76.0,306337
-631,The Place Beyond the Pines,(2012),7.3,68.0,229388
-632,Jack Reacher,(2012),7.0,,287921
-633,Lawless,(2012),7.3,,215844
-634,Dark Shadows,(2012),6.2,,232661
-635,Battleship,(2012),5.8,,226782
-636,Dredd,(2012),7.1,,237127
-637,Sinister,(I) (2012),6.8,,201461
-638,Magic Mike,(2012),6.1,72.0,124983
-639,The Dictator,(2012),6.4,,253914
-640,That's My Boy,(2012),5.5,,84334
-641,Life of Pi,(2012),7.9,79.0,542795
-642,Total Recall,(I) (2012),6.3,,230315
-643,Project X,(2012),6.6,,179501
-644,The Bourne Legacy,(2012),6.7,61.0,271034
-645,Wreck-It Ralph,(2012),7.7,72.0,351375
-646,Brave,(2012),7.1,69.0,344093
-647,Seven Psychopaths,(2012),7.2,66.0,225946
-648,End of Watch,(2012),7.6,68.0,213681
-649,American Reunion,(2012),6.7,,193773
-650,Savages,(2012),6.5,,116524
-651,The Wolf of Wall Street,(2013),8.2,75.0,1055603
-652,Her,(2013),8.0,90.0,476686
-653,Olympus Has Fallen,(2013),6.5,,239674
-654,Prisoners,(2013),8.1,74.0,536316
-655,About Time,(I) (2013),7.8,,270201
-656,Snowpiercer,(2013),7.1,84.0,246182
-657,The Conjuring,(2013),7.5,68.0,405952
-658,World War Z,(2013),7.0,63.0,560449
-659,Frozen,(I) (2013),7.5,74.0,524011
-660,The Great Gatsby,(2013),7.3,,439803
-661,The Green Inferno,(2013),5.3,,34088
-662,White House Down,(2013),6.4,,194234
-663,Thor: The Dark World,(2013),6.9,,551712
-664,12 Years a Slave,(2013),8.1,96.0,585509
-665,Iron Man Three,(2013),7.2,62.0,704912
-666,The Secret Life of Walter Mitty,(2013),7.3,,277957
-667,Oblivion,(I) (2013),7.0,,459030
-668,Man of Steel,(2013),7.1,,654390
-669,The Hunger Games: Catching Fire,(2013),7.5,76.0,580959
-670,Mama,(I) (2013),6.2,,160818
-671,Nymphomaniac: Vol. I,(2013),6.9,64.0,108458
-672,American Hustle,(2013),7.2,90.0,422237
-673,The Hobbit: The Desolation of Smaug,(2013),7.8,66.0,570547
-674,La vie d'Adèle,(2013),7.8,88.0,126475
-675,Furious 6,(2013),7.1,61.0,350659
-676,Under the Skin,(I) (2013),6.3,78.0,115144
-677,We're the Millers,(2013),7.0,,376019
-678,Dallas Buyers Club,(2013),8.0,84.0,407187
-679,Escape Plan,(2013),6.7,,214381
-680,Grown Ups 2,(2013),5.4,,130708
-681,Enemy,(2013),6.9,61.0,146896
-682,Lovelace,(2013),6.2,,36334
-683,Movie 43,(2013),4.3,,94125
-684,This Is the End,(2013),6.6,67.0,364389
-685,The Wolverine,(2013),6.7,61.0,406654
-686,Starred Up,(2013),7.4,81.0,39865
-687,Now You See Me,(I) (2013),7.3,,559128
-688,Lone Survivor,(2013),7.5,,249542
-689,Gravity,(2013),7.7,96.0,719444
-690,Rush,(I) (2013),8.1,75.0,398783
-691,Star Trek Into Darkness,(2013),7.7,72.0,448174
-692,Gangster Squad,(2013),6.7,,197148
-693,Kick-Ass 2,(2013),6.5,,241659
-694,The Croods,(2013),7.2,,179082
-695,Locke,(2013),7.1,81.0,122600
-696,Saving Mr. Banks,(2013),7.5,65.0,142554
-697,Pacific Rim,(2013),6.9,65.0,447509
-698,Hansel & Gretel: Witch Hunters,(2013),6.1,,185401
-699,Don Jon,(2013),6.5,66.0,218065
-700,The Hangover Part III,(2013),5.8,,274745
-701,John Wick,(2014),7.4,68.0,473942
-702,Interstellar,(2014),8.6,74.0,1327237
-703,Guardians of the Galaxy,(2014),8.1,76.0,969204
-704,Gone Girl,(2014),8.1,79.0,775080
-705,Kingsman: The Secret Service,(2014),7.7,,552148
-706,Godzilla,(2014),6.4,62.0,357179
-707,Whiplash,(2014),8.5,88.0,630931
-708,Divergent,(2014),6.7,,403444
-709,X-Men: Days of Future Past,(2014),8.0,75.0,628539
-710,What We Do in the Shadows,(2014),7.7,76.0,130374
-711,Captain America: The Winter Soldier,(2014),7.8,70.0,679906
-712,The Grand Budapest Hotel,(2014),8.1,88.0,643256
-713,Ex Machina,(2014),7.7,78.0,432099
-714,Maleficent,(2014),7.0,,310378
-715,Birdman or (The Unexpected Virtue of Ignorance),(2014),7.7,87.0,527972
-716,Edge of Tomorrow,(2014),7.9,71.0,554381
-717,Inherent Vice,(2014),6.7,81.0,84959
-718,Nightcrawler,(2014),7.9,76.0,413217
-719,300: Rise of an Empire,(2014),6.2,,266015
-720,Fury,(2014),7.6,64.0,388107
-721,Blended,(2014),6.5,,108391
-722,The Hobbit: The Battle of the Five Armies,(2014),7.4,,443684
-723,Boyhood,(I) (2014),7.9,100.0,318449
-724,The Imitation Game,(2014),8.0,73.0,629557
-725,Veronica Mars,(2014),6.8,62.0,47961
-726,The Equalizer,(2014),7.2,,307219
-727,The Amazing Spider-Man 2,(2014),6.6,,393843
-728,The Maze Runner,(2014),6.8,,391599
-729,Unbroken,(I) (2014),7.2,,131770
-730,The Hunger Games: Mockingjay - Part 1,(2014),6.6,64.0,384301
-731,Sin City: A Dame to Kill For,(2014),6.5,,142701
-732,Chef,(2014),7.3,68.0,177774
-733,Tusk,(2014),5.3,,41567
-734,It Follows,(2014),6.8,83.0,187145
-735,American Sniper,(2014),7.3,72.0,406967
-736,Predestination,(I) (2014),7.5,69.0,229080
-737,The Theory of Everything,(2014),7.7,72.0,366970
-738,The Lego Movie,(2014),7.8,83.0,307709
-739,"Love, Rosie",(2014),7.2,,107787
-740,The Babadook,(2014),6.8,86.0,175625
-741,The Fault in Our Stars,(2014),7.7,69.0,320124
-742,Lucy,(I) (2014),6.4,61.0,408118
-743,The Expendables 3,(2014),6.1,,158452
-744,Annabelle,(I) (2014),5.4,,127149
-745,Big Hero 6,(2014),7.8,74.0,378080
-746,A Million Ways to Die in the West,(2014),6.1,,162090
-747,Into the Woods,(2014),5.9,69.0,124901
-748,Night at the Museum: Secret of the Tomb,(2014),6.2,,95173
-749,Sex Tape,(2014),5.1,,101619
-750,The Judge,(2014),7.4,,165105
-751,The Hateful Eight,(2015),7.8,68.0,454675
-752,Cinderella,(I) (2015),6.9,67.0,146075
-753,Love,(II) (2015),6.1,,38407
-754,Terminator Genisys,(2015),6.4,,237762
-755,Star Wars: Episode VII - The Force Awakens,(2015),8.0,81.0,793703
-756,Mad Max: Fury Road,(2015),8.1,90.0,794376
-757,Fifty Shades of Grey,(2015),4.1,,282128
-758,Avengers: Age of Ultron,(2015),7.3,66.0,680884
-759,The VVitch: A New-England Folktale,(2015),6.8,83.0,160304
-760,Self/less,(2015),6.5,,82234
-761,The Big Short,(2015),7.8,81.0,316187
-762,The Revenant,(2015),8.0,76.0,633999
-763,Room,(I) (2015),8.2,86.0,324442
-764,Sicario,(2015),7.6,82.0,334602
-765,Spectre,(I) (2015),6.8,,356637
-766,Jurassic World,(2015),7.0,,546093
-767,Jupiter Ascending,(2015),5.3,,168854
-768,The Martian,(2015),8.0,80.0,692858
-769,Knock Knock,(I) (2015),4.9,,70218
-770,The Man from U.N.C.L.E.,(2015),7.3,,244397
-771,Mission: Impossible - Rogue Nation,(2015),7.4,75.0,316919
-772,The Hunger Games: Mockingjay - Part 2,(2015),6.5,65.0,257691
-773,Spotlight,(I) (2015),8.1,93.0,373025
-774,The Age of Adaline,(2015),7.2,,141441
-775,Pitch Perfect 2,(2015),6.4,63.0,132575
-776,Legend,(I) (2015),6.9,,141768
-777,Furious Seven,(2015),7.2,67.0,339554
-778,Bridge of Spies,(2015),7.6,81.0,266512
-779,The Lobster,(2015),7.1,82.0,187775
-780,Fantastic Four,(2015),4.3,,141811
-781,Ant-Man,(2015),7.3,64.0,515325
-782,Bone Tomahawk,(2015),7.1,72.0,73172
-783,Brush with Danger,(2015),3.6,,353
-784,Inside Out,(I) (2015),8.2,94.0,548246
-785,True Story,(I) (2015),6.3,,55004
-786,The Invitation,(I) (2015),6.6,74.0,73431
-787,Spy,(2015),7.0,75.0,216297
-788,Insurgent,(2015),6.2,,202391
-789,The Visit,(I) (2015),6.2,,104036
-790,In the Heart of the Sea,(2015),6.9,,110357
-791,The Danish Girl,(2015),7.1,66.0,149202
-792,Spooks: The Greater Good,(2015),6.2,,19410
-793,The Intern,(I) (2015),7.1,,194668
-794,Carol,(2015),7.2,95.0,102737
-795,Brooklyn,(2015),7.5,88.0,119013
-796,The Ridiculous 6,(2015),4.8,,39642
-797,Creed,(II) (2015),7.6,82.0,228732
-798,Pan,(2015),5.7,,56482
-799,Focus,(II) (2015),6.6,,195035
-800,San Andreas,(2015),6.0,,195844
-801,Suicide Squad,(2016),6.0,,544243
-802,London Has Fallen,(2016),5.9,,128955
-803,X-Men: Apocalypse,(2016),6.9,,365289
-804,Deadpool,(2016),8.0,65.0,836387
-805,Split,(IX) (2016),7.3,62.0,371625
-806,Rogue One,(2016),7.8,65.0,487814
-807,Fantastic Beasts and Where to Find Them,(2016),7.3,66.0,372726
-808,Their Finest,(2016),6.8,76.0,15571
-809,Hacksaw Ridge,(2016),8.1,71.0,376650
-810,La La Land,(I) (2016),8.0,93.0,445903
-811,The Secret Life of Pets,(2016),6.5,61.0,167766
-812,War Dogs,(2016),7.1,,157746
-813,Batman v Superman: Dawn of Justice,(2016),6.5,,584552
-814,The Huntsman: Winter's War,(2016),6.1,,89301
-815,Captain America: Civil War,(2016),7.8,75.0,599782
-816,Me Before You,(2016),7.4,,180411
-817,Arrival,(II) (2016),7.9,81.0,528125
-818,The Nice Guys,(2016),7.4,70.0,246109
-819,Kimi no na wa.,(2016),8.4,79.0,142571
-820,Doctor Strange,(2016),7.5,72.0,531997
-821,Nocturnal Animals,(2016),7.5,67.0,210470
-822,Moana,(I) (2016),7.6,81.0,231424
-823,Moonlight,(I) (2016),7.4,99.0,234374
-824,Passengers,(I) (2016),7.0,,316955
-825,"Hail, Caesar!",(2016),6.3,72.0,113078
-826,Sing,(2016),7.1,,119285
-827,The Lost City of Z,(2016),6.6,78.0,68134
-828,Allegiant,(2016),5.7,,97483
-829,Contratiempo,(2016),8.1,,90054
-830,The Girl on the Train,(I) (2016),6.5,,154540
-831,Ah-ga-ssi,(2016),8.1,84.0,83187
-832,Miss Peregrine's Home for Peculiar Children,(2016),6.7,,143417
-833,Ghostbusters,(2016),5.2,,189930
-834,The Accountant,(2016),7.3,,237332
-835,Captain Fantastic,(2016),7.9,72.0,163922
-836,The Bad Batch,(2016),5.3,62.0,21755
-837,31,(2016),5.1,,15628
-838,The Shallows,(2016),6.3,,109710
-839,Jason Bourne,(2016),6.6,,193192
-840,Hidden Figures,(2016),7.8,74.0,175439
-841,10 Cloverfield Lane,(2016),7.2,76.0,265133
-842,Warcraft,(2016),6.8,,228347
-843,The Neon Demon,(2016),6.2,,74467
-844,Zootopia,(2016),8.0,78.0,391536
-845,Below Her Mouth,(2016),5.5,,8064
-846,Don't Breathe,(2016),7.1,71.0,192142
-847,Silence,(I) (2016),7.1,79.0,87151
-848,Manchester by the Sea,(2016),7.8,96.0,219157
-849,Star Trek Beyond,(2016),7.1,68.0,212653
-850,Hell or High Water,(II) (2016),7.6,88.0,180581
-851,It,(I) (2017),7.4,69.0,384983
-852,Blade Runner 2049,(2017),8.0,81.0,390160
-853,Thor: Ragnarok,(2017),7.9,74.0,506978
-854,Star Wars: Episode VIII - The Last Jedi,(2017),7.1,85.0,474402
-855,Spider-Man: Homecoming,(2017),7.5,73.0,450498
-856,John Wick: Chapter 2,(2017),7.5,75.0,310730
-857,Mother!,(2017),6.6,75.0,163220
-858,Baywatch,(2017),5.5,,142705
-859,Get Out,(I) (2017),7.7,84.0,418638
-860,Justice League,(2017),6.4,,338595
-861,Call Me by Your Name,(2017),7.9,93.0,160962
-862,The Greatest Showman,(2017),7.6,,205369
-863,Baby Driver,(2017),7.6,86.0,379316
-864,Kingsman: The Golden Circle,(2017),6.8,,238072
-865,Dunkirk,(2017),7.9,94.0,479500
-866,Jumanji: Welcome to the Jungle,(2017),6.9,,251909
-867,You Were Never Really Here,(2017),6.8,84.0,75688
-868,Valerian and the City of a Thousand Planets,(2017),6.5,,144080
-869,Logan,(2017),8.1,77.0,575734
-870,Guardians of the Galaxy Vol. 2,(2017),7.6,67.0,501953
-871,"Three Billboards Outside Ebbing, Missouri",(2017),8.2,88.0,358118
-872,Wonder Woman,(2017),7.4,76.0,499671
-873,Kong: Skull Island,(2017),6.6,62.0,244462
-874,The Dark Tower,(2017),5.6,,113356
-875,The Shape of Water,(2017),7.3,87.0,319151
-876,Wonder,(I) (2017),8.0,66.0,115750
-877,The Upside,(2017),6.8,,31596
-878,Coco,(I) (2017),8.4,81.0,293581
-879,Geostorm,(2017),5.3,,81439
-880,Pirates of the Caribbean: Dead Men Tell No Tales,(2017),6.6,,234305
-881,47 Meters Down,(2017),5.6,,41468
-882,Wind River,(2017),7.7,73.0,174816
-883,Beauty and the Beast,(2017),7.2,65.0,244643
-884,The Babysitter,(I) (2017),6.3,,48870
-885,The Mummy,(2017),5.5,,158347
-886,Flatliners,(2017),5.2,,35464
-887,Power Rangers,(2017),5.9,,94640
-888,The Current War,(2017),6.2,,2402
-889,Gerald's Game,(2017),6.6,77.0,69447
-890,The Fate of the Furious,(2017),6.7,,185563
-891,Transformers: The Last Knight,(2017),5.2,,122269
-892,American Made,(2017),7.1,65.0,136853
-893,Lady Bird,(2017),7.4,94.0,184778
-894,A Dog's Purpose,(2017),7.1,,56853
-895,Ghost in the Shell,(2017),6.4,,180527
-896,Good Time,(2017),7.3,80.0,55183
-897,First Kill,(2017),4.9,,8245
-898,Alien: Covenant,(2017),6.4,65.0,231761
-899,Bright,(I) (2017),6.4,,151331
-900,Molly's Game,(2017),7.5,71.0,109112
-901,Aquaman,(2018),7.0,,294085
-902,Nomis,(2018),5.8,,3646
-903,A Simple Favor,(2018),6.8,67.0,94765
-904,Bad Times at the El Royale,(2018),7.1,,100096
-905,Bohemian Rhapsody,(2018),8.0,,376657
-906,Spider-Man: Into the Spider-Verse,(2018),8.4,87.0,255880
-907,Avengers: Infinity War,(2018),8.5,68.0,705389
-908,Mortal Engines,(2018),6.1,,79549
-909,Mission: Impossible - Fallout,(2018),7.8,86.0,246203
-910,The Mule,(2018),7.0,,72720
-911,Can You Ever Forgive Me?,(2018),7.1,87.0,34261
-912,A Star Is Born,(2018),7.7,88.0,272949
-913,Deadpool 2,(2018),7.7,66.0,413046
-914,Fantastic Beasts: The Crimes of Grindelwald,(2018),6.6,,177257
-915,Hereditary,(2018),7.3,87.0,169557
-916,Crazy Rich Asians,(2018),6.9,74.0,107279
-917,The Favourite,(2018),7.6,90.0,129244
-918,Green Book,(2018),8.2,69.0,238011
-919,A Quiet Place,(2018),7.5,82.0,321924
-920,Mary Poppins Returns,(2018),6.8,66.0,60280
-921,Robin Hood,(2018),5.3,,48162
-922,Freaks,(2018),6.6,65.0,581
-923,American Woman,(2018),6.4,67.0,537
-924,First Man,(2018),7.3,84.0,133377
-925,Black Panther,(2018),7.3,88.0,539016
-926,Venom,(2018),6.7,,301706
-927,Solo: A Star Wars Story,(2018),7.0,62.0,235950
-928,Widows,(2018),6.9,84.0,68860
-929,Mandy,(I) (2018),6.6,81.0,47671
-930,Hunter Killer,(2018),6.6,,39006
-931,BlacKkKlansman,(2018),7.5,83.0,162392
-932,Ready Player One,(2018),7.5,64.0,314466
-933,Red Sparrow,(2018),6.6,,142328
-934,Annihilation,(2018),6.9,79.0,238013
-935,Hotel Mumbai,(2018),7.6,64.0,28526
-936,Keepers,(2018),5.8,64.0,9263
-937,Suspiria,(I) (2018),6.8,64.0,43188
-938,Halloween,(I) (2018),6.6,67.0,95652
-939,High Life,(2018),5.9,77.0,15118
-940,Holmes & Watson,(2018),3.8,,21374
-941,Ralph Breaks the Internet,(2018),7.1,71.0,100183
-942,In Fabric,(2018),6.5,87.0,2353
-943,Instant Family,(2018),7.3,,54597
-944,Vice,(I) (2018),7.2,61.0,85306
-945,Jurassic World: Fallen Kingdom,(2018),6.2,,228382
-946,The Meg,(2018),5.7,,123390
-947,Dragged Across Concrete,(2018),7.0,,21613
-948,Mary Queen of Scots,(2018),6.3,,27077
-949,The Nightingale,(I) (2018),7.2,76.0,1464
-950,Climax,(I) (2018),7.2,67.0,29831
-951,Joker,(I) (2019),9.6,72.0,12249
-952,It Chapter Two,(2019),7.1,,47601
-953,Once Upon a Time... in Hollywood,(2019),8.0,83.0,180089
-954,Terminator: Dark Fate,(2019),0.0,,0
-955,Hustlers,(2019),5.0,80.0,881
-956,Ready or Not,(I) (2019),7.2,63.0,11966
-957,Dark Phoenix,(2019),5.9,,79164
-958,Star Wars: The Rise of Skywalker,(2019),0.0,,0
-959,Angel Has Fallen,(2019),6.7,,12934
-960,Ad Astra,(2019),7.7,81.0,861
-961,Avengers: Endgame,(2019),8.6,78.0,552048
-962,The Dead Don't Die,(2019),5.6,,19195
-963,Rocketman,(2019),7.5,69.0,63276
-964,Jojo Rabbit,(2019),7.3,,271
-965,Falling Inn Love,(2019),5.6,,5884
-966,Good Boys,(II) (2019),6.9,,12315
-967,Aladdin,(2019),7.2,,125196
-968,John Wick: Chapter 3 - Parabellum,(2019),7.7,73.0,156095
-969,Downton Abbey,(2019),7.6,,111
-970,Godzilla: King of the Monsters,(2019),6.2,,82366
-971,Fast & Furious Presents: Hobbs & Shaw,(2019),6.8,,63075
-972,Saaho,(2019),5.9,,10152
-973,The Lion King,(2019),7.1,,98328
-974,Midsommar,(I) (2019),7.6,72.0,36098
-975,Men in Black: International,(2019),5.6,,56280
-976,Rambo: Last Blood,(2019),0.0,,0
-977,The King,(I) (2019),6.8,67.0,265
-978,The Peanut Butter Falcon,(2019),8.0,69.0,4101
-979,The Fanatic,(2019),3.8,,1003
-980,Spider-Man: Far from Home,(2019),7.9,69.0,162504
-981,K-12,(2019),6.8,,1080
-982,Scary Stories to Tell in the Dark,(2019),6.4,61.0,16164
-983,The Aeronauts,(2019),6.6,73.0,177
-984,The Secret Life of Pets 2,(2019),6.5,,22346
-985,The Painted Bird,(2019),6.8,75.0,149
-986,The Goldfinch,(2019),5.9,,260
-987,Booksmart,(2019),7.3,84.0,36358
-988,Uncut Gems,(2019),8.0,89.0,223
-989,Black Christmas,(2019),0.0,,0
-990,Brightburn,(2019),6.2,,42596
-991,Gisaengchung,(2019),8.5,91.0,26257
-992,Alita: Battle Angel,(2019),7.4,,156460
-993,Shazam!,(2019),7.2,70.0,176084
-994,Angel of Mine,(2019),7.0,,2379
-995,Ma,(I) (2019),5.7,,17123
-996,The Irishman,(2019),0.0,,0
-997,Long Shot,(2019),7.0,67.0,43881
-998,Toy Story 4,(2019),8.1,84.0,88921
-999,The Hustle,(2019),5.4,,20018
-1000,Ford v Ferrari,(2019),8.0,74.0,320
+MovieName,ReleaseYear,ImdbRating,Metascore,Votes
+American Psycho,(2000),7.6,64.0,439022
+Gladiator,(2000),8.5,67.0,1232190
+Requiem for a Dream,(2000),8.3,68.0,710215
+The Patriot,(2000),7.2,63.0,240111
+Snatch,(2000),8.3,,728467
+Remember the Titans,(2000),7.8,,186186
+X-Men,(2000),7.4,64.0,543081
+Memento,(2000),8.4,80.0,1044026
+Cast Away,(2000),7.8,73.0,479842
+Unbreakable,(2000),7.3,62.0,359770
+Almost Famous,(2000),7.9,90.0,237262
+Scary Movie,(2000),6.2,,217333
+Charlie's Angels,(2000),5.5,,165182
+The Cell,(2000),6.3,,90675
+Malèna,(2000),7.5,,81471
+Hollow Man,(2000),5.8,,116004
+Road Trip,(2000),6.4,,149787
+Final Destination,(2000),6.7,,214079
+Coyote Ugly,(2000),5.7,,101826
+Battlefield Earth,(2000),2.5,,73287
+Mission: Impossible II,(2000),6.1,,294700
+Billy Elliot,(2000),7.7,74.0,117033
+What Women Want,(2000),6.4,,182217
+"O Brother, Where Art Thou?",(2000),7.7,69.0,267521
+Bring It On,(2000),6.0,,82027
+Erin Brockovich,(2000),7.3,73.0,161058
+Shaft,(2000),5.9,,69505
+The Beach,(I) (2000),6.7,,210775
+Traffic,(2000),7.6,86.0,187480
+Tra(sgre)dire,(2000),5.5,,4400
+"Me, Myself & Irene",(2000),6.6,,211661
+Space Cowboys,(2000),6.4,73.0,69528
+Mission to Mars,(2000),5.7,,67499
+Scream 3,(2000),5.5,,115711
+Gone in Sixty Seconds,(2000),6.5,,248260
+Faa yeung nin wa,(2000),8.1,85.0,108116
+The Emperor's New Groove,(2000),7.3,70.0,164432
+The Perfect Storm,(2000),6.4,,148411
+Wo hu cang long,(2000),7.8,93.0,242008
+The Whole Nine Yards,(2000),6.7,,103967
+Thirteen Days,(2000),7.3,67.0,51218
+How the Grinch Stole Christmas,(2000),6.1,,185300
+The Replacements,(2000),6.6,,55060
+Pitch Black,(2000),7.1,,215730
+Chocolat,(2000),7.2,64.0,169671
+Batoru rowaiaru,(2000),7.6,81.0,160646
+Sexy Beast,(2000),7.3,79.0,50758
+Where the Heart Is,(2000),6.8,,30478
+The Gift,(2000),6.6,62.0,59511
+The 6th Day,(2000),5.9,,111551
+Harry Potter and the Sorcerer's Stone,(2001),7.6,64.0,579329
+The Lord of the Rings: The Fellowship of the Ring,(2001),8.8,92.0,1533685
+Pearl Harbor,(2001),6.2,,295790
+A Knight's Tale,(2001),6.9,,159401
+The Fast and the Furious,(2001),6.8,,325481
+Ocean's Eleven,(2001),7.8,74.0,479833
+Sen to Chihiro no kamikakushi,(2001),8.6,96.0,569720
+Donnie Darko,(2001),8.0,71.0,705057
+Black Hawk Down,(2001),7.7,74.0,343667
+Rat Race,(2001),6.4,,103666
+Mulholland Dr.,(2001),7.9,83.0,294774
+A Beautiful Mind,(2001),8.2,72.0,782207
+Blow,(2001),7.6,,226268
+Training Day,(2001),7.7,69.0,361342
+"Monsters, Inc.",(2001),8.0,78.0,752501
+Legally Blonde,(2001),6.2,,168632
+Amélie,(2001),8.3,69.0,660305
+Moulin Rouge!,(2001),7.6,66.0,254068
+Not Another Teen Movie,(2001),5.7,,91816
+Planet of the Apes,(2001),5.7,,202959
+Shrek,(2001),7.8,84.0,571188
+The Others,(2001),7.6,74.0,317162
+Hannibal,(2001),6.8,,239436
+Thir13en Ghosts,(2001),5.6,,74818
+Artificial Intelligence: AI,(2001),7.2,65.0,277040
+Gosford Park,(2001),7.2,90.0,74603
+The Glass House,(2001),5.8,,29956
+Jeepers Creepers,(2001),6.2,,103969
+Wet Hot American Summer,(2001),6.6,,50777
+Bridget Jones's Diary,(2001),6.7,66.0,209505
+Y tu mamá también,(2001),7.6,88.0,108355
+Lucía y el sexo,(2001),7.1,65.0,33408
+Vanilla Sky,(2001),6.9,,236356
+Original Sin,(2001),6.1,,51050
+Zoolander,(2001),6.6,61.0,233748
+The Royal Tenenbaums,(2001),7.6,76.0,248529
+Spy Kids,(2001),5.4,71.0,101110
+The Princess Diaries,(2001),6.3,,118105
+Jurassic Park III,(2001),5.9,,278304
+Jason X,(2001),4.4,,47165
+Monster's Ball,(2001),7.0,69.0,79218
+Scary Movie 2,(2001),5.3,,140219
+The Last Castle,(2001),7.0,,66358
+Super Troopers,(2001),7.1,,91903
+American Pie 2,(2001),6.4,,227644
+Swordfish,(2001),6.5,,170143
+Lara Croft: Tomb Raider,(2001),5.8,,187626
+The Mummy Returns,(2001),6.3,,286802
+La pianiste,(2001),7.5,79.0,50341
+Along Came a Spider,(2001),6.4,,69694
+The Lord of the Rings: The Two Towers,(2002),8.7,87.0,1373067
+Spider-Man,(2002),7.3,73.0,649092
+The Pianist,(2002),8.5,85.0,656703
+Gangs of New York,(2002),7.5,72.0,376753
+Catch Me If You Can,(2002),8.1,75.0,735205
+Road to Perdition,(2002),7.7,72.0,230410
+Cidade de Deus,(2002),8.6,79.0,653646
+Harry Potter and the Chamber of Secrets,(2002),7.4,63.0,501429
+Irréversible,(2002),7.4,,108948
+Scooby-Doo,(2002),5.0,,89396
+28 Days Later...,(2002),7.6,73.0,349492
+Star Wars: Episode II - Attack of the Clones,(2002),6.6,,583313
+Panic Room,(2002),6.8,65.0,240501
+Minority Report,(2002),7.6,80.0,475359
+Secretary,(2002),7.0,63.0,77937
+Signs,(2002),6.7,,320081
+8 Mile,(2002),7.1,77.0,231661
+The Ring,(2002),7.1,,301441
+Men in Black II,(2002),6.2,,320038
+Chicago,(2002),7.1,82.0,203210
+Die Another Day,(2002),6.1,,193710
+Resident Evil,(2002),6.7,,234155
+Equilibrium,(2002),7.4,,298537
+The Count of Monte Cristo,(2002),7.7,61.0,121639
+Punch-Drunk Love,(2002),7.3,78.0,134795
+Ghost Ship,(2002),5.5,,88502
+Unfaithful,(2002),6.7,63.0,74517
+Ken Park,(2002),5.9,,27741
+The Bourne Identity,(2002),7.9,68.0,479909
+Insomnia,(2002),7.2,78.0,256390
+A Walk to Remember,(2002),7.4,,190010
+Red Dragon,(2002),7.2,,234188
+About a Boy,(2002),7.0,75.0,163311
+Blue Crush,(2002),5.6,61.0,28761
+The Hours,(2002),7.5,80.0,117873
+Mr. Deeds,(2002),5.8,,128589
+Confessions of a Dangerous Mind,(2002),7.0,67.0,79676
+Cabin Fever,(2002),5.6,,70626
+Blade II,(2002),6.7,,189071
+Adaptation.,(2002),7.7,83.0,166625
+Lilo & Stitch,(2002),7.2,73.0,153402
+The Time Machine,(2002),6.0,,113820
+Sweet Home Alabama,(2002),6.2,,96574
+We Were Soldiers,(2002),7.1,65.0,122523
+Ice Age,(2002),7.5,,409090
+Treasure Planet,(2002),7.2,,92309
+Frida,(2002),7.4,61.0,75456
+My Big Fat Greek Wedding,(2002),6.5,62.0,114553
+Star Trek: Nemesis,(2002),6.4,,68861
+The Sum of All Fears,(2002),6.4,,97784
+The Lord of the Rings: The Return of the King,(2003),8.9,94.0,1518032
+Kill Bill: Vol. 1,(2003),8.1,69.0,923154
+Mystic River,(2003),7.9,84.0,392876
+Pirates of the Caribbean: The Curse of the Black Pearl,(2003),8.0,63.0,973157
+The Matrix Reloaded,(2003),7.2,62.0,485131
+Love Actually,(2003),7.6,,389340
+House of 1000 Corpses,(2003),6.1,,70281
+Oldeuboi,(2003),8.4,77.0,466872
+Finding Nemo,(2003),8.1,90.0,881454
+Bad Boys II,(2003),6.6,,209002
+The Room,(2003),3.7,,73941
+The Dreamers,(2003),7.2,62.0,102241
+Secondhand Lions,(2003),7.5,,49000
+The Matrix Revolutions,(2003),6.7,,421183
+Big Fish,(2003),8.0,,393331
+Terminator 3: Rise of the Machines,(2003),6.3,66.0,354261
+Lost in Translation,(2003),7.7,89.0,378676
+Peter Pan,(2003),6.8,64.0,62305
+Freddy vs. Jason,(2003),5.7,,104611
+Salinui chueok,(2003),8.1,82.0,104704
+The School of Rock,(2003),7.1,82.0,248460
+How to Lose a Guy in 10 Days,(2003),6.4,,193841
+The Last Samurai,(2003),7.7,,374372
+Old School,(2003),7.1,,205387
+Master and Commander: The Far Side of the World,(2003),7.4,81.0,191116
+X2,(2003),7.4,68.0,487206
+2 Fast 2 Furious,(2003),5.9,,235358
+Identity,(2003),7.3,64.0,211982
+Wrong Turn,(I) (2003),6.1,,102344
+Underworld,(2003),7.0,,241631
+The Texas Chainsaw Massacre,(2003),6.2,,124176
+Monster,(2003),7.3,74.0,126178
+Thirteen,(2003),6.8,70.0,76429
+The Italian Job,(2003),7.0,68.0,325443
+Cold Mountain,(2003),7.2,73.0,133246
+Hulk,(2003),5.6,,241765
+Freaky Friday,(2003),6.1,70.0,116683
+Holes,(2003),7.0,71.0,71139
+Charlie's Angels: Full Throttle,(2003),4.9,,114020
+Cheaper by the Dozen,(2003),5.8,,88024
+The League of Extraordinary Gentlemen,(2003),5.8,,158877
+Dogville,(2003),8.0,,127964
+Daredevil,(2003),5.3,,199097
+Haute tension,(2003),6.8,,63664
+Something's Gotta Give,(2003),6.7,66.0,104747
+The Rundown,(2003),6.7,,96598
+The Cat in the Hat,(2003),3.9,,47100
+Bruce Almighty,(2003),6.7,,350101
+Gigli,(2003),2.5,,44812
+Once Upon a Time in Mexico,(2003),6.4,,146705
+Mean Girls,(2004),7.0,66.0,306535
+Kill Bill: Vol. 2,(2004),8.0,83.0,629273
+Troy,(2004),7.2,,457972
+Harry Potter and the Prisoner of Azkaban,(2004),7.9,82.0,498041
+The Notebook,(2004),7.8,,482506
+The Phantom of the Opera,(2004),7.3,,110704
+Eternal Sunshine of the Spotless Mind,(2004),8.3,89.0,837019
+Shaun of the Dead,(2004),7.9,76.0,476104
+The Day After Tomorrow,(2004),6.4,,391102
+Dodgeball: A True Underdog Story,(2004),6.7,,216302
+Saw,(2004),7.6,,356112
+The Aviator,(2004),7.5,77.0,311770
+Van Helsing,(2004),6.1,,231784
+The Incredibles,(2004),8.0,90.0,613065
+White Chicks,(2004),5.6,,120760
+50 First Dates,(2004),6.8,,307620
+The Machinist,(2004),7.7,61.0,333121
+Ocean's Twelve,(2004),6.5,,335315
+Hellboy,(2004),6.8,72.0,293372
+Collateral,(2004),7.5,71.0,338636
+Napoleon Dynamite,(2004),6.9,64.0,186544
+Spider-Man 2,(2004),7.3,83.0,508404
+The Village,(2004),6.5,,230046
+EuroTrip,(2004),6.6,,184330
+Man on Fire,(2004),7.7,,311147
+The Girl Next Door,(2004),6.7,,192176
+9 Songs,(2004),4.8,,20507
+Crash,(I) (2004),7.8,69.0,403240
+The Butterfly Effect,(2004),7.6,,426045
+Der Untergang,(2004),8.2,82.0,309688
+Anchorman: The Legend of Ron Burgundy,(2004),7.2,63.0,311898
+Hauru no ugoku shiro,(2004),8.2,80.0,288217
+Million Dollar Baby,(2004),8.1,86.0,593219
+"I, Robot",(2004),7.1,,469986
+The Punisher,(2004),6.4,,143597
+The Passion of the Christ,(2004),7.1,,202799
+The Terminal,(2004),7.3,,371299
+Blade: Trinity,(2004),5.9,,157823
+A Series of Unfortunate Events,(2004),6.8,62.0,186392
+Layer Cake,(2004),7.3,73.0,155775
+Dawn of the Dead,(2004),7.3,,222474
+Closer,(I) (2004),7.2,65.0,192251
+13 Going on 30,(2004),6.1,,152496
+Starsky & Hutch,(2004),6.1,,132859
+Shrek 2,(2004),7.2,75.0,388531
+National Treasure,(2004),6.8,,287774
+Without a Paddle,(2004),5.9,,42190
+The Chronicles of Riddick,(2004),6.7,,205739
+Sideways,(2004),7.5,94.0,171126
+Resident Evil: Apocalypse,(2004),6.2,,177004
+Batman Begins,(2005),8.2,70.0,1211607
+Pride & Prejudice,(2005),7.8,82.0,233663
+Harry Potter and the Goblet of Fire,(2005),7.7,81.0,496937
+Charlie and the Chocolate Factory,(2005),6.6,72.0,394947
+Walk the Line,(2005),7.8,72.0,215436
+Brokeback Mountain,(2005),7.7,87.0,303210
+Sin City,(2005),8.0,74.0,719346
+Wedding Crashers,(2005),6.9,64.0,317259
+V for Vendetta,(2005),8.2,62.0,963298
+Star Wars: Episode III - Revenge of the Sith,(2005),7.5,68.0,649372
+The Devil's Rejects,(2005),6.8,,86988
+Serenity,(2005),7.8,74.0,272458
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",(2005),6.9,75.0,343910
+Kingdom of Heaven,(2005),7.2,63.0,252746
+The Island,(2005),6.8,,289890
+Constantine,(2005),7.0,,283382
+Mr. & Mrs. Smith,(2005),6.5,,422546
+War of the Worlds,(2005),6.5,73.0,391875
+The Longest Yard,(2005),6.4,,152300
+The Descent,(2005),7.2,71.0,187085
+Hostel,(2005),5.9,,160650
+The 40 Year Old Virgin,(2005),7.1,73.0,369538
+Brick,(2005),7.3,72.0,95644
+King Kong,(2005),7.2,81.0,371128
+Match Point,(2005),7.6,72.0,193423
+Elizabethtown,(2005),6.4,,64734
+Hitch,(I) (2005),6.6,,280734
+Munich,(2005),7.5,74.0,200404
+Fantastic Four,(I) (2005),5.7,,299652
+Be Cool,(2005),5.6,,65126
+The Hitchhiker's Guide to the Galaxy,(2005),6.7,63.0,178943
+Sky High,(2005),6.1,62.0,73123
+The Amityville Horror,(2005),6.0,,100198
+Nanny McPhee,(2005),6.5,,62562
+The Dukes of Hazzard,(2005),5.1,,72950
+Sahara,(2005),6.0,,87527
+Madagascar,(2005),6.9,,338102
+House of Wax,(2005),5.3,,109180
+Coach Carter,(2005),7.3,,113969
+Four Brothers,(2005),6.8,,126466
+Hustle & Flow,(2005),7.3,68.0,37019
+Just Friends,(I) (2005),6.2,,98754
+A History of Violence,(2005),7.4,81.0,212789
+The Brothers Grimm,(2005),5.9,,111438
+Corpse Bride,(2005),7.3,83.0,226045
+Kiss Kiss Bang Bang,(2005),7.5,72.0,204312
+North Country,(2005),7.3,68.0,37512
+The Sisterhood of the Traveling Pants,(2005),6.5,66.0,51509
+Into the Blue,(2005),5.8,,70746
+Red Eye,(2005),6.4,71.0,106381
+300,(2006),7.7,,698878
+The Departed,(2006),8.5,85.0,1092995
+The Prestige,(2006),8.5,66.0,1083641
+United 93,(2006),7.5,90.0,93604
+The Devil Wears Prada,(2006),6.9,62.0,344560
+World Trade Center,(2006),5.9,66.0,74730
+Pan's Labyrinth,(2006),8.2,98.0,579379
+Pirates of the Caribbean: Dead Man's Chest,(2006),7.3,,619551
+X-Men: The Last Stand,(2006),6.7,,459229
+Casino Royale,(2006),8.0,80.0,544715
+Apocalypto,(2006),7.8,68.0,273210
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,(2006),7.3,89.0,335411
+Idiocracy,(2006),6.6,66.0,134186
+Marie Antoinette,(2006),6.4,65.0,94096
+The Fast and the Furious: Tokyo Drift,(2006),6.0,,223332
+Cars,(2006),7.1,73.0,336169
+Poseidon,(2006),5.6,,93104
+The Lake House,(2006),6.8,,131733
+The Lives of Others,(2006),8.4,89.0,328317
+The Pursuit of Happyness,(2006),8.0,64.0,411328
+Little Miss Sunshine,(2006),7.8,80.0,413929
+The Da Vinci Code,(2006),6.6,,376494
+Inside Man,(2006),7.6,76.0,316765
+Silent Hill,(2006),6.5,,204371
+Children of Men,(2006),7.9,84.0,433955
+The Hills Have Eyes,(2006),6.4,,150455
+Black Christmas,(2006),4.5,,23206
+Mission: Impossible III,(2006),6.9,66.0,310436
+Black Snake Moan,(2006),6.9,,58791
+Little Children,(2006),7.5,75.0,101411
+Stranger Than Fiction,(2006),7.6,67.0,209009
+Blood Diamond,(2006),8.0,64.0,467966
+Open Season,(2006),6.1,,80061
+Step Up,(2006),6.5,,105293
+Talladega Nights: The Ballad of Ricky Bobby,(2006),6.6,66.0,156225
+Superman Returns,(2006),6.0,72.0,262000
+Babel,(I) (2006),7.4,69.0,275572
+Smokin' Aces,(2006),6.7,,132341
+The Holiday,(2006),6.9,,222868
+Deja Vu,(2006),7.0,,278854
+ATL,(2006),6.1,63.0,10348
+Night at the Museum,(2006),6.4,,291185
+Failure to Launch,(2006),5.6,,68122
+Perfume: The Story of a Murderer,(2006),7.5,,221952
+Rocky Balboa,(2006),7.1,63.0,192826
+Gwoemul,(2006),7.0,85.0,86968
+She's the Man,(2006),6.3,,138472
+Invincible,(2006),7.1,63.0,61508
+The Fountain,(2006),7.2,,218038
+John Tucker Must Die,(2006),5.7,,76119
+Superbad,(2007),7.6,76.0,489523
+Zodiac,(2007),7.7,78.0,401659
+No Country for Old Men,(2007),8.1,91.0,778742
+Into the Wild,(2007),8.1,73.0,530865
+Death Proof,(2007),7.0,,250512
+Spider-Man 3,(2007),6.2,,468251
+Ratatouille,(2007),8.0,96.0,589890
+There Will Be Blood,(2007),8.1,93.0,470522
+Hot Fuzz,(2007),7.8,81.0,431640
+Pirates of the Caribbean: At World's End,(2007),7.1,,562790
+Atonement,(2007),7.8,85.0,230985
+Harry Potter and the Order of the Phoenix,(2007),7.5,71.0,461657
+Stardust,(2007),7.6,66.0,240879
+Transformers,(2007),7.0,61.0,573728
+Juno,(2007),7.4,81.0,469686
+The Mist,(2007),7.1,,264000
+Charlie Wilson's War,(2007),7.0,69.0,101688
+The Assassination of Jesse James by the Coward Robert Ford,(2007),7.5,68.0,158526
+American Gangster,(2007),7.8,76.0,370858
+Shooter,(I) (2007),7.2,,294632
+Knocked Up,(2007),6.9,85.0,334902
+Enchanted,(2007),7.0,75.0,166982
+I Am Legend,(2007),7.2,65.0,641970
+Gone Baby Gone,(2007),7.6,72.0,236640
+The Girl Next Door,(2007),6.6,,21761
+Grindhouse,(2007),7.5,77.0,171602
+Ocean's Thirteen,(2007),6.9,62.0,300721
+Sweeney Todd: The Demon Barber of Fleet Street,(2007),7.3,83.0,325564
+The Golden Compass,(2007),6.1,,169191
+Fracture,(2007),7.2,68.0,171637
+Halloween,(2007),6.1,,103401
+Hostel: Part II,(2007),5.5,,81209
+Hairspray,(2007),6.6,81.0,114122
+Across the Universe,(2007),7.3,,102285
+Death at a Funeral,(2007),7.4,67.0,103383
+Good Luck Chuck,(2007),5.6,,82140
+Planet Terror,(2007),7.1,,191056
+Wild Hogs,(2007),5.8,,109989
+Eastern Promises,(2007),7.6,82.0,216293
+Sunshine,(2007),7.2,64.0,222166
+Next,(2007),6.2,,141416
+Funny Games,(2007),6.5,,84629
+The Bourne Ultimatum,(2007),8.0,85.0,583181
+Hot Rod,(2007),6.7,,70452
+Beowulf,(2007),6.2,,156043
+3:10 to Yuma,(2007),7.7,76.0,272608
+P.S. I Love You,(2007),7.0,,192786
+Live Free or Die Hard,(2007),7.1,69.0,373885
+28 Weeks Later,(2007),7.0,78.0,244035
+We Own the Night,(2007),6.8,,80636
+The Dark Knight,(2008),9.0,84.0,2099084
+You Don't Mess with the Zohan,(2008),5.5,,179657
+Twilight,(I) (2008),5.2,,398760
+Iron Man,(2008),7.9,79.0,879972
+Rambo,(2008),7.0,,204283
+Tropic Thunder,(2008),7.0,71.0,355730
+The House Bunny,(2008),5.5,,75083
+The Curious Case of Benjamin Button,(2008),7.8,70.0,546628
+Mamma Mia!,(2008),6.4,,197402
+In Bruges,(2008),7.9,67.0,367010
+The Hottie & the Nottie,(2008),1.9,,35507
+The Hurt Locker,(2008),7.6,94.0,396925
+Martyrs,(2008),7.1,,75788
+The Incredible Hulk,(2008),6.7,61.0,408838
+Wanted,(2008),6.7,64.0,343958
+Revolutionary Road,(2008),7.3,69.0,180916
+WALL·E,(2008),8.4,95.0,921820
+Get Smart,(2008),6.5,,192104
+Slumdog Millionaire,(2008),8.0,86.0,754522
+The Midnight Meat Train,(2008),6.1,,56122
+Pineapple Express,(2008),7.0,64.0,297758
+Burn After Reading,(2008),7.0,63.0,291027
+Gran Torino,(2008),8.1,72.0,677459
+Step Brothers,(2008),6.9,,250001
+Taken,(I) (2008),7.8,,542584
+Forgetting Sarah Marshall,(2008),7.1,67.0,250275
+Sex and the City,(2008),5.6,,111198
+Hellboy II: The Golden Army,(2008),7.0,78.0,245022
+Quantum of Solace,(2008),6.6,,381108
+Seven Pounds,(2008),7.6,,271292
+Cloverfield,(2008),7.0,64.0,354620
+Indiana Jones and the Kingdom of the Crystal Skull,(2008),6.1,65.0,398099
+The Reader,(2008),7.6,,219648
+RocknRolla,(2008),7.3,,221978
+Body of Lies,(2008),7.1,,201501
+The Boy in the Striped Pyjamas,(2008),7.8,,173614
+Sex Drive,(2008),6.5,,80385
+27 Dresses,(2008),6.1,,146345
+Hancock,(2008),6.4,,417641
+Rachel Getting Married,(2008),6.7,82.0,45339
+Yes Man,(2008),6.8,,313987
+Vicky Cristina Barcelona,(2008),7.1,70.0,229745
+The Wrestler,(2008),7.9,81.0,279016
+21,(2008),6.8,,215834
+The Strangers,(2008),6.2,,111506
+Jumper,(2008),6.1,,274570
+Zack and Miri Make a Porno,(2008),6.5,,166917
+Kung Fu Panda,(2008),7.5,73.0,387711
+The Happening,(2008),5.0,,187748
+Eagle Eye,(2008),6.6,,168397
+Inglourious Basterds,(2009),8.3,69.0,1148253
+Watchmen,(2009),7.6,,460196
+Friday the 13th,(2009),5.5,,90382
+The Hangover,(2009),7.7,73.0,677721
+Avatar,(2009),7.8,83.0,1058421
+Zombieland,(2009),7.6,73.0,468363
+Star Trek,(2009),7.9,82.0,559717
+The Blind Side,(2009),7.6,,270997
+X-Men Origins: Wolverine,(2009),6.6,,443235
+My Sister's Keeper,(2009),7.4,,85686
+Harry Potter and the Half-Blood Prince,(2009),7.6,78.0,426070
+Jennifer's Body,(2009),5.2,,107476
+The Princess and the Frog,(2009),7.1,73.0,112121
+Sherlock Holmes,(2009),7.6,,553972
+3 Idiots,(2009),8.4,67.0,306878
+The Taking of Pelham 123,(2009),6.4,,175432
+Law Abiding Citizen,(2009),7.4,,255903
+2012,(I) (2009),5.8,,331789
+Up,(2009),8.2,88.0,860746
+Splice,(2009),5.7,66.0,88697
+Up in the Air,(I) (2009),7.4,83.0,303468
+District 9,(2009),7.9,81.0,609834
+Coraline,(2009),7.7,80.0,180716
+The Boat That Rocked,(2009),7.4,,103147
+Case 39,(2009),6.2,,72634
+He's Just Not That Into You,(2009),6.4,,151176
+Terminator Salvation,(2009),6.5,,324178
+Angels & Demons,(2009),6.7,,255936
+(500) Days of Summer,(2009),7.7,76.0,446020
+In the Loop,(2009),7.4,83.0,51611
+Fast & Furious,(2009),6.6,,246243
+Monsters vs. Aliens,(2009),6.5,,137702
+Daybreakers,(2009),6.4,,117606
+The Lovely Bones,(2009),6.7,,147189
+Antichrist,(2009),6.6,,108106
+Män som hatar kvinnor,(2009),7.8,76.0,199610
+Drag Me to Hell,(2009),6.5,83.0,178721
+Moon,(2009),7.9,67.0,315274
+The Proposal,(I) (2009),6.7,,276183
+Kynodontas,(2009),7.3,73.0,70678
+Mr. Nobody,(2009),7.8,63.0,200246
+El secreto de sus ojos,(2009),8.2,80.0,175685
+G.I. Joe: The Rise of Cobra,(2009),5.8,,192256
+The Ugly Truth,(2009),6.4,,192315
+Brothers,(I) (2009),7.1,,104395
+Knowing,(2009),6.2,,210493
+Enter the Void,(2009),7.3,69.0,62600
+The Soloist,(2009),6.7,61.0,49260
+Orphan,(2009),6.9,,177769
+The Imaginarium of Doctor Parnassus,(2009),6.8,65.0,139491
+Inception,(2010),8.8,74.0,1871982
+Shutter Island,(2010),8.1,63.0,1024456
+Scott Pilgrim vs. the World,(2010),7.5,69.0,344417
+Black Swan,(2010),8.0,79.0,656764
+Clash of the Titans,(2010),5.8,,259085
+The Losers,(I) (2010),6.3,,85515
+Harry Potter and the Deathly Hallows: Part 1,(2010),7.7,65.0,433061
+The Book of Eli,(2010),6.9,,275412
+True Grit,(2010),7.6,80.0,288058
+The Social Network,(2010),7.7,95.0,575447
+The Town,(2010),7.5,74.0,326472
+The King's Speech,(2010),8.0,88.0,600295
+Kick-Ass,(2010),7.6,66.0,502045
+Srpski film,(2010),5.1,,52295
+Insidious,(I) (2010),6.8,,258460
+Jonah Hex,(2010),4.7,,52458
+Iron Man 2,(2010),7.0,,670705
+Toy Story 3,(2010),8.3,92.0,699320
+Tron,(2010),6.8,,298807
+Tangled,(2010),7.7,71.0,372481
+Grown Ups,(I) (2010),5.9,,213791
+The Other Guys,(2010),6.6,64.0,224697
+Blue Valentine,(2010),7.4,81.0,172158
+Alice in Wonderland,(I) (2010),6.4,,362617
+A Nightmare on Elm Street,(2010),5.2,,86478
+Robin Hood,(2010),6.6,,241598
+Eat Pray Love,(2010),5.8,,79104
+Remember Me,(I) (2010),7.1,,130695
+127 Hours,(2010),7.6,82.0,327865
+Easy A,(2010),7.1,72.0,334823
+Due Date,(2010),6.5,,306846
+It's Kind of a Funny Story,(2010),7.1,63.0,127103
+RED,(2010),7.0,,274008
+Prince of Persia: The Sands of Time,(2010),6.6,,258076
+Percy Jackson & the Olympians: The Lightning Thief,(2010),5.9,,166985
+Hot Tub Time Machine,(2010),6.4,63.0,155279
+Incendies,(2010),8.3,80.0,127292
+Burlesque,(I) (2010),6.4,,71974
+The Next Three Days,(2010),7.4,,170373
+Habitación en Roma,(2010),6.1,,20756
+I Spit on Your Grave,(2010),6.3,,69628
+How to Train Your Dragon,(2010),8.1,74.0,620000
+The Fighter,(I) (2010),7.8,79.0,319639
+Love & Other Drugs,(2010),6.7,,169702
+The Last Airbender,(2010),4.1,,139140
+I'm Still Here,(I) (2010),6.2,,18860
+Megamind,(2010),7.2,63.0,211312
+The Expendables,(2010),6.5,,310801
+The Twilight Saga: Eclipse,(2010),5.0,,214071
+The A-Team,(2010),6.7,,237247
+Harry Potter and the Deathly Hallows: Part 2,(2011),8.1,87.0,702092
+The Girl with the Dragon Tattoo,(2011),7.8,71.0,392216
+X: First Class,(2011),7.7,65.0,616997
+The Help,(2011),8.1,62.0,397626
+Captain America: The First Avenger,(2011),6.9,66.0,682167
+The Cabin in the Woods,(2011),7.0,72.0,343930
+Drive,(I) (2011),7.8,78.0,528542
+Thor,(2011),7.0,,696109
+The Lincoln Lawyer,(2011),7.3,63.0,198114
+Footloose,(2011),5.9,,43771
+In Time,(2011),6.7,,349547
+Sucker Punch,(2011),6.0,,220050
+Pirates of the Caribbean: On Stranger Tides,(2011),6.6,,452946
+Just Go with It,(2011),6.4,,204945
+Bridesmaids,(I) (2011),6.8,75.0,252506
+The Intouchables,(2011),8.5,,689886
+"Crazy, Stupid, Love.",(2011),7.4,68.0,441449
+Moneyball,(2011),7.6,87.0,331449
+Tinker Tailor Soldier Spy,(2011),7.1,85.0,176484
+Warrior,(2011),8.2,71.0,408127
+Midnight in Paris,(2011),7.7,81.0,360917
+Cowboys & Aliens,(2011),6.0,,197594
+Contagion,(2011),6.6,70.0,203132
+No Strings Attached,(I) (2011),6.2,,200020
+Margin Call,(2011),7.1,76.0,108384
+Limitless,(I) (2011),7.4,,497966
+Mission: Impossible - Ghost Protocol,(2011),7.4,73.0,432950
+The Tree of Life,(2011),6.8,85.0,157839
+Scream 4,(2011),6.1,,120044
+The Hangover Part II,(2011),6.4,,437761
+Hugo,(2011),7.5,83.0,287341
+The Ides of March,(2011),7.1,67.0,208501
+I Am Number Four,(2011),6.1,,219489
+Shame,(2011),7.2,72.0,172991
+Sleeping Beauty,(2011),5.2,,29556
+The Three Musketeers,(2011),5.7,,99110
+Green Lantern,(2011),5.5,,254450
+The Adjustment Bureau,(2011),7.0,,230139
+Melancholia,(2011),7.1,80.0,155364
+Hanna,(2011),6.8,65.0,180571
+Immortals,(2011),6.0,,154173
+Sherlock Holmes: A Game of Shadows,(2011),7.5,,398206
+Friends with Benefits,(2011),6.5,63.0,320836
+Source Code,(2011),7.5,74.0,457296
+Super 8,(2011),7.0,72.0,322759
+Fast Five,(2011),7.3,66.0,334129
+The Twilight Saga: Breaking Dawn - Part 1,(2011),4.9,,210624
+Colombiana,(2011),6.4,,88575
+Bad Teacher,(2011),5.6,,183047
+Horrible Bosses,(2011),6.9,,402355
+Django Unchained,(2012),8.4,81.0,1235367
+The Dark Knight Rises,(2012),8.4,78.0,1406547
+The Avengers,(2012),8.0,69.0,1199067
+The Hunger Games,(2012),7.2,68.0,802583
+Zero Dark Thirty,(2012),7.4,95.0,254192
+Pitch Perfect,(2012),7.2,66.0,259826
+Cloud Atlas,(2012),7.4,,329288
+The Hobbit: An Unexpected Journey,(2012),7.8,,725167
+The Master,(2012),7.2,86.0,134112
+Les Misérables,(2012),7.6,63.0,289230
+John Carter,(2012),6.6,,244086
+Flight,(I) (2012),7.3,76.0,306509
+Men in Black 3,(2012),6.8,,315907
+Lo imposible,(2012),7.6,73.0,181066
+The Twilight Saga: Breaking Dawn - Part 2,(2012),5.5,,217436
+Spring Breakers,(2012),5.3,63.0,128136
+Prometheus,(I) (2012),7.0,64.0,543403
+21 Jump Street,(2012),7.2,69.0,483097
+Looper,(2012),7.4,84.0,505873
+Silver Linings Playbook,(2012),7.7,81.0,626574
+Skyfall,(2012),7.7,81.0,597248
+Sinister,(I) (2012),6.8,,201609
+The Perks of Being a Wallflower,(2012),8.0,67.0,427324
+Argo,(2012),7.7,86.0,540432
+Snow White and the Huntsman,(2012),6.1,,261234
+The Amazing Spider-Man,(2012),6.9,66.0,532223
+Jack Reacher,(2012),7.0,,288095
+Dark Shadows,(2012),6.2,,232811
+Lawless,(2012),7.3,,215946
+Battleship,(2012),5.8,,226870
+Magic Mike,(2012),6.1,72.0,125035
+Anna Karenina,(I) (2012),6.6,63.0,85743
+Jagten,(2012),8.3,77.0,247408
+Dredd,(2012),7.1,,237258
+Lincoln,(2012),7.3,86.0,231153
+Moonrise Kingdom,(2012),7.8,84.0,295285
+The Place Beyond the Pines,(2012),7.3,68.0,229512
+The Dictator,(2012),6.4,,254103
+Brave,(2012),7.1,69.0,344323
+That's My Boy,(2012),5.5,,84386
+Seven Psychopaths,(2012),7.2,66.0,226074
+Wreck-It Ralph,(2012),7.7,72.0,351626
+American Reunion,(2012),6.7,,193839
+Safe House,(2012),6.7,,194533
+Life of Pi,(2012),7.9,79.0,543115
+End of Watch,(2012),7.6,68.0,213792
+The Watch,(I) (2012),5.7,,116777
+Total Recall,(I) (2012),6.3,,230400
+Ted,(2012),6.9,62.0,543474
+Savages,(2012),6.5,,116561
+The Wolf of Wall Street,(2013),8.2,75.0,1056511
+Her,(2013),8.0,90.0,477252
+Olympus Has Fallen,(2013),6.5,,239983
+Prisoners,(2013),8.1,74.0,536797
+The Conjuring,(2013),7.5,68.0,406317
+The Great Gatsby,(2013),7.3,,440105
+Snowpiercer,(2013),7.1,84.0,246499
+About Time,(I) (2013),7.8,,270540
+Frozen,(I) (2013),7.5,74.0,524270
+Grown Ups 2,(2013),5.4,,130768
+Mama,(I) (2013),6.2,,160929
+La vie d'Adèle,(2013),7.8,88.0,126594
+World War Z,(2013),7.0,63.0,560793
+Under the Skin,(I) (2013),6.3,78.0,115319
+Nymphomaniac: Vol. I,(2013),6.9,64.0,108527
+Iron Man Three,(2013),7.2,62.0,705423
+American Hustle,(2013),7.2,90.0,422464
+12 Years a Slave,(2013),8.1,96.0,585917
+Man of Steel,(2013),7.1,,654722
+Now You See Me,(I) (2013),7.3,,559441
+The Hunger Games: Catching Fire,(2013),7.5,76.0,581225
+The Hobbit: The Desolation of Smaug,(2013),7.8,66.0,570804
+The Wolverine,(2013),6.7,61.0,406916
+The World's End,(2013),7.0,81.0,239997
+Oblivion,(I) (2013),7.0,,459261
+The Secret Life of Walter Mitty,(2013),7.3,,278101
+Furious 6,(2013),7.1,61.0,350822
+The Green Inferno,(2013),5.3,,34131
+Hansel & Gretel: Witch Hunters,(2013),6.1,,185487
+Thor: The Dark World,(2013),6.9,,552130
+We're the Millers,(2013),7.0,,376224
+Oz the Great and Powerful,(2013),6.3,,193246
+Star Trek Into Darkness,(2013),7.7,72.0,448335
+Dallas Buyers Club,(2013),8.0,84.0,407422
+Enemy,(2013),6.9,61.0,147080
+Movie 43,(2013),4.3,,94183
+Gravity,(2013),7.7,96.0,719953
+Rush,(I) (2013),8.1,75.0,399017
+This Is the End,(2013),6.6,67.0,364572
+Gangster Squad,(2013),6.7,,197243
+Evil Dead,(2013),6.5,,147898
+Lovelace,(2013),6.2,,36358
+Saving Mr. Banks,(2013),7.5,65.0,142634
+White House Down,(2013),6.4,,194388
+Lone Survivor,(2013),7.5,,249680
+Carrie,(2013),5.9,,126727
+Pacific Rim,(2013),6.9,65.0,447681
+Don Jon,(2013),6.5,66.0,218148
+The Purge,(I) (2013),5.7,,186820
+Captain Phillips,(2013),7.8,83.0,392153
+Interstellar,(2014),8.6,74.0,1328514
+John Wick,(2014),7.4,68.0,474924
+Gone Girl,(2014),8.1,79.0,775663
+Kingsman: The Secret Service,(2014),7.7,,552457
+Guardians of the Galaxy,(2014),8.1,76.0,970085
+Maleficent,(2014),7.0,,310642
+Whiplash,(2014),8.5,88.0,631564
+X-Men: Days of Future Past,(2014),8.0,75.0,628912
+The Grand Budapest Hotel,(2014),8.1,88.0,643721
+Godzilla,(2014),6.4,62.0,357466
+Edge of Tomorrow,(2014),7.9,71.0,554760
+Ex Machina,(2014),7.7,78.0,432368
+The Equalizer,(2014),7.2,,307476
+What We Do in the Shadows,(2014),7.7,76.0,130550
+Captain America: The Winter Soldier,(2014),7.8,70.0,680467
+Divergent,(2014),6.7,,403626
+Birdman or (The Unexpected Virtue of Ignorance),(2014),7.7,87.0,528433
+Fury,(2014),7.6,64.0,388421
+The Imitation Game,(2014),8.0,73.0,629940
+Lucy,(I) (2014),6.4,61.0,408449
+American Sniper,(2014),7.3,72.0,407188
+Nightcrawler,(2014),7.9,76.0,413629
+It Follows,(2014),6.8,83.0,187374
+Inherent Vice,(2014),6.7,81.0,85040
+Tusk,(2014),5.3,,41619
+300: Rise of an Empire,(2014),6.2,,266182
+The Hobbit: The Battle of the Five Armies,(2014),7.4,,443951
+Veronica Mars,(2014),6.8,62.0,48002
+Transformers: Age of Extinction,(2014),5.6,,286173
+The Babadook,(2014),6.8,86.0,175828
+Unbroken,(I) (2014),7.2,,131843
+"Love, Rosie",(2014),7.2,,107914
+The Fault in Our Stars,(2014),7.7,69.0,320284
+Chef,(2014),7.3,68.0,177915
+The Theory of Everything,(2014),7.7,72.0,367206
+Into the Woods,(2014),5.9,69.0,124964
+Predestination,(I) (2014),7.5,69.0,229272
+The Giver,(2014),6.5,,106213
+The Other Woman,(2014),6.0,,124169
+The Expendables 3,(2014),6.1,,158552
+The Maze Runner,(2014),6.8,,391832
+Annabelle,(I) (2014),5.4,,127382
+The Judge,(2014),7.4,,165236
+Boyhood,(I) (2014),7.9,100.0,318614
+The Hunger Games: Mockingjay - Part 1,(2014),6.6,64.0,384543
+The Amazing Spider-Man 2,(2014),6.6,,394050
+Noah,(2014),5.8,68.0,231394
+Sin City: A Dame to Kill For,(2014),6.5,,142807
+Wild,(I) (2014),7.1,76.0,111690
+Big Hero 6,(2014),7.8,74.0,378347
+Mad Max: Fury Road,(2015),8.1,90.0,795019
+The Hateful Eight,(2015),7.8,68.0,455477
+Love,(II) (2015),6.1,,38474
+The VVitch: A New-England Folktale,(2015),6.8,83.0,160642
+Fifty Shades of Grey,(2015),4.1,,282292
+The Big Short,(2015),7.8,81.0,316577
+The Revenant,(2015),8.0,76.0,634642
+Avengers: Age of Ultron,(2015),7.3,66.0,681506
+Room,(I) (2015),8.2,86.0,324787
+The Martian,(2015),8.0,80.0,693482
+Star Wars: Episode VII - The Force Awakens,(2015),8.0,81.0,794127
+Furious Seven,(2015),7.2,67.0,339727
+Pitch Perfect 2,(2015),6.4,63.0,132682
+Self/less,(2015),6.5,,82329
+Sicario,(2015),7.6,82.0,334887
+Spectre,(I) (2015),6.8,,356850
+Cinderella,(I) (2015),6.9,67.0,146236
+Terminator Genisys,(2015),6.4,,237944
+Jurassic World,(2015),7.0,,546425
+Knock Knock,(I) (2015),4.9,,70317
+Mission: Impossible - Rogue Nation,(2015),7.4,75.0,317163
+Jupiter Ascending,(2015),5.3,,168956
+Spotlight,(I) (2015),8.1,93.0,373407
+Legend,(I) (2015),6.9,,141900
+Tomorrowland,(2015),6.4,,163085
+Spy,(2015),7.0,75.0,216410
+The Lobster,(2015),7.1,82.0,188003
+The Man from U.N.C.L.E.,(2015),7.3,,244585
+The Invitation,(I) (2015),6.6,74.0,73577
+Ant-Man,(2015),7.3,64.0,515943
+Inside Out,(I) (2015),8.2,94.0,548758
+Pan,(2015),5.7,,56518
+Crimson Peak,(2015),6.5,66.0,120840
+The Ridiculous 6,(2015),4.8,,39681
+The Intern,(I) (2015),7.1,,194886
+Bone Tomahawk,(2015),7.1,72.0,73301
+Everest,(2015),7.1,64.0,183357
+The Age of Adaline,(2015),7.2,,141556
+In the Heart of the Sea,(2015),6.9,,110438
+The Hunger Games: Mockingjay - Part 2,(2015),6.5,65.0,257927
+Creed,(II) (2015),7.6,82.0,228932
+Youth,(I) (2015),7.3,64.0,65506
+Carol,(2015),7.2,95.0,102853
+Brooklyn,(2015),7.5,88.0,119099
+The Danish Girl,(2015),7.1,66.0,149309
+Bite,(I) (2015),4.9,,3734
+San Andreas,(2015),6.0,,195972
+Trainwreck,(2015),6.2,75.0,123084
+True Story,(I) (2015),6.3,,55095
+February,(I) (2015),5.9,68.0,14282
+Suicide Squad,(2016),6.0,,544874
+Split,(IX) (2016),7.3,62.0,372357
+X-Men: Apocalypse,(2016),6.9,,365666
+Sing,(2016),7.1,,119428
+Hacksaw Ridge,(2016),8.1,71.0,377108
+London Has Fallen,(2016),5.9,,129259
+Deadpool,(2016),8.0,65.0,837112
+Captain America: Civil War,(2016),7.8,75.0,600455
+Fantastic Beasts and Where to Find Them,(2016),7.3,66.0,373073
+Me Before You,(2016),7.4,,180628
+The Accountant,(2016),7.3,,237544
+Rogue One,(2016),7.8,65.0,488217
+La La Land,(I) (2016),8.0,93.0,446397
+Doctor Strange,(2016),7.5,72.0,532667
+Arrival,(II) (2016),7.9,81.0,528678
+Kimi no na wa.,(2016),8.4,79.0,142979
+Batman v Superman: Dawn of Justice,(2016),6.5,,584926
+Moonlight,(I) (2016),7.4,99.0,234663
+War Dogs,(2016),7.1,,157947
+Nocturnal Animals,(2016),7.5,67.0,210775
+Moana,(I) (2016),7.6,81.0,231707
+Mike and Dave Need Wedding Dates,(2016),6.0,,76453
+The Nice Guys,(2016),7.4,70.0,246397
+Ah-ga-ssi,(2016),8.1,84.0,83404
+The Secret Life of Pets,(2016),6.5,61.0,168001
+Don't Breathe,(2016),7.1,71.0,192404
+The Lost City of Z,(2016),6.6,78.0,68234
+Contratiempo,(2016),8.1,,90357
+Captain Fantastic,(2016),7.9,72.0,164191
+31,(2016),5.1,,15686
+Bad Moms,(2016),6.2,,103275
+The Legend of Tarzan,(2016),6.2,,152616
+Hush,(I) (2016),6.6,67.0,82878
+Morgan,(2016),5.8,,36177
+Independence Day: Resurgence,(2016),5.2,,157313
+13 Hours,(2016),7.3,,105794
+"Hail, Caesar!",(2016),6.3,72.0,113179
+Passengers,(I) (2016),7.0,,317278
+Ghostbusters,(2016),5.2,,190071
+Star Trek Beyond,(2016),7.1,68.0,212796
+Warcraft,(2016),6.8,,228499
+Hidden Figures,(2016),7.8,74.0,175632
+The Bad Batch,(2016),5.3,62.0,21792
+Below Her Mouth,(2016),5.5,,8088
+The Girl on the Train,(I) (2016),6.5,,154650
+The Jungle Book,(2016),7.4,77.0,244503
+The Great Wall,(I) (2016),5.9,,114055
+The Neon Demon,(2016),6.2,,74535
+The Conjuring 2,(2016),7.3,65.0,201105
+Dangal,(2016),8.4,,128472
+It,(I) (2017),7.4,69.0,387761
+Blade Runner 2049,(2017),8.0,81.0,391003
+The Current War,(2017),6.3,,2845
+Thor: Ragnarok,(2017),7.9,74.0,507879
+Mother!,(2017),6.6,75.0,163567
+Star Wars: Episode VIII - The Last Jedi,(2017),7.1,85.0,474979
+Baywatch,(2017),5.5,,142935
+The Greatest Showman,(2017),7.6,,205644
+Spider-Man: Homecoming,(2017),7.4,73.0,451346
+Get Out,(I) (2017),7.7,84.0,419377
+Valerian and the City of a Thousand Planets,(2017),6.5,,144285
+John Wick: Chapter 2,(2017),7.5,75.0,311627
+Pirates of the Caribbean: Dead Men Tell No Tales,(2017),6.6,,234569
+Baby Driver,(2017),7.6,86.0,379901
+Call Me by Your Name,(2017),7.9,93.0,161282
+Justice League,(2017),6.4,,339134
+Geostorm,(2017),5.3,,81724
+Dunkirk,(2017),7.9,94.0,480065
+Kingsman: The Golden Circle,(2017),6.8,,238405
+Logan,(2017),8.1,77.0,576344
+The Dark Tower,(2017),5.6,,113590
+Jumanji: Welcome to the Jungle,(2017),6.9,,252251
+The Shape of Water,(2017),7.3,87.0,319657
+Wonder Woman,(2017),7.4,76.0,500175
+Gerald's Game,(2017),6.6,77.0,69633
+"Three Billboards Outside Ebbing, Missouri",(2017),8.2,88.0,358753
+Ghost in the Shell,(2017),6.3,,180734
+First Kill,(2017),4.9,,8307
+Wind River,(2017),7.7,73.0,175150
+Wonder,(I) (2017),8.0,66.0,115979
+Guardians of the Galaxy Vol. 2,(2017),7.6,67.0,502686
+Coco,(I) (2017),8.4,81.0,294322
+68 Kill,(2017),6.0,,3740
+You Were Never Really Here,(2017),6.8,84.0,75955
+Good Time,(2017),7.3,80.0,55359
+Kong: Skull Island,(2017),6.6,62.0,244738
+Power Rangers,(2017),5.9,,94761
+The Fate of the Furious,(2017),6.7,,185774
+Beauty and the Beast,(2017),7.2,65.0,244878
+The Upside,(2017),6.8,,31808
+Molly's Game,(2017),7.5,71.0,109325
+The Babysitter,(I) (2017),6.3,,49014
+Transformers: The Last Knight,(2017),5.2,,122429
+Pitch Perfect 3,(2017),5.8,,47139
+Lady Bird,(2017),7.4,94.0,185097
+Alien: Covenant,(2017),6.4,65.0,231964
+Downsizing,(2017),5.7,63.0,80238
+American Assassin,(2017),6.2,,59797
+Unforgettable,(II) (2017),5.1,,11877
+King Arthur: Legend of the Sword,(2017),6.8,,172827
+Mary Queen of Scots,(2018),6.3,,27389
+Aquaman,(2018),7.0,,295708
+Nomis,(2018),5.7,,4091
+A Simple Favor,(2018),6.8,67.0,95483
+Spider-Man: Into the Spider-Verse,(2018),8.4,87.0,257306
+Fantastic Beasts: The Crimes of Grindelwald,(2018),6.6,,178104
+Freaks,(2018),6.8,63.0,786
+Bohemian Rhapsody,(2018),8.0,,377831
+Avengers: Infinity War,(2018),8.5,68.0,706803
+Bad Times at the El Royale,(2018),7.1,,100746
+Deadpool 2,(2018),7.7,66.0,413995
+Mission: Impossible - Fallout,(2018),7.8,86.0,246770
+The Favourite,(2018),7.6,90.0,129851
+Hereditary,(2018),7.3,87.0,170354
+The Mule,(2018),7.0,,73271
+Mortal Engines,(2018),6.1,,80085
+Green Book,(2018),8.2,69.0,239687
+A Star Is Born,(2018),7.7,88.0,273787
+A Quiet Place,(2018),7.5,82.0,322767
+The Predator,(2018),5.4,,101018
+Crazy Rich Asians,(2018),6.9,74.0,107675
+Holmes & Watson,(2018),3.8,,21599
+The Happytime Murders,(2018),5.4,,19465
+Black Panther,(2018),7.3,88.0,539948
+Robin Hood,(2018),5.3,,48454
+The Death and Life of John F. Donovan,(2018),6.2,,1746
+Venom,(2018),6.7,,302481
+Mary Poppins Returns,(2018),6.8,66.0,60556
+Hex,(I) (2018),5.3,,1840
+Hotel Mumbai,(2018),7.6,64.0,28939
+Ready Player One,(2018),7.5,64.0,314939
+First Man,(2018),7.3,84.0,133899
+BlacKkKlansman,(2018),7.5,83.0,162906
+Solo: A Star Wars Story,(2018),7.0,62.0,236408
+Vice,(I) (2018),7.2,61.0,85838
+Annihilation,(2018),6.9,79.0,238498
+Jurassic World: Fallen Kingdom,(2018),6.2,,228765
+Suspiria,(I) (2018),6.8,64.0,43414
+High Life,(2018),5.9,77.0,15313
+Halloween,(I) (2018),6.6,67.0,95900
+Ocean's Eight,(2018),6.2,61.0,152663
+Hunter Killer,(2018),6.6,,39262
+Widows,(2018),6.9,84.0,69188
+Can You Ever Forgive Me?,(2018),7.1,87.0,34504
+Bumblebee,(2018),6.8,66.0,105250
+Climax,(I) (2018),7.2,67.0,30168
+Peppermint,(2018),6.5,,40089
+Red Sparrow,(2018),6.6,,142598
+Ralph Breaks the Internet,(2018),7.1,71.0,100652
+Dragged Across Concrete,(2018),7.0,,21837
+It Chapter Two,(2019),7.0,,61862
+Joker,(I) (2019),9.5,70.0,13385
+Hustlers,(2019),6.6,79.0,4800
+Once Upon a Time... in Hollywood,(2019),8.0,83.0,186834
+Doctor Sleep,(2019),0.0,,0
+Downton Abbey,(2019),7.8,,1982
+The Goldfinch,(2019),6.3,,1277
+Ad Astra,(2019),7.7,81.0,1081
+Anna,(II) (2019),6.6,,14222
+Avengers: Endgame,(2019),8.6,78.0,556039
+Spider-Man: Far from Home,(2019),7.8,69.0,172444
+Ready or Not,(I) (2019),7.2,63.0,12963
+Dark Phoenix,(2019),5.9,,83741
+Rambo: Last Blood,(2019),0.0,,0
+Midway,(2019),0.0,,0
+John Wick: Chapter 3 - Parabellum,(2019),7.7,73.0,160739
+Aladdin,(2019),7.1,,128836
+Angel Has Fallen,(2019),6.7,,14217
+Star Wars: The Rise of Skywalker,(2019),0.0,,0
+Yesterday,(III) (2019),7.0,,36805
+Terminator: Dark Fate,(2019),0.0,,0
+Jojo Rabbit,(2019),7.3,,437
+The Dead Don't Die,(2019),5.6,,21000
+The Fanatic,(2019),3.8,,1311
+Child's Play,(2019),6.1,,17330
+Chhichhore,(2019),8.7,,5474
+Men in Black: International,(2019),5.6,,58526
+Good Boys,(II) (2019),6.9,,13146
+Rocketman,(2019),7.5,69.0,64883
+Fast & Furious Presents: Hobbs & Shaw,(2019),6.8,,64140
+Knives Out,(2019),0.0,,0
+Midsommar,(I) (2019),7.6,72.0,36739
+Late Night,(2019),6.6,71.0,8131
+The Lion King,(2019),7.1,,99742
+Uncut Gems,(2019),8.3,88.0,333
+Booksmart,(2019),7.3,84.0,37362
+Gisaengchung,(2019),8.5,91.0,28318
+The Peanut Butter Falcon,(2019),8.0,69.0,4592
+The Lighthouse,(2019),7.9,89.0,1092
+Godzilla: King of the Monsters,(2019),6.2,,84547
+Tall Girl,(2019),5.5,,2763
+Charlie's Angels,(2019),0.0,,0
+Black Christmas,(2019),0.0,,0
+The Painted Bird,(2019),7.2,75.0,225
+Last Christmas,(2019),0.0,,0
+Falling Inn Love,(2019),5.6,,6655
+Alita: Battle Angel,(2019),7.4,,158042
+Blinded by the Light,(2019),7.0,71.0,6448
+Ma,(I) (2019),5.7,,17890
+Scary Stories to Tell in the Dark,(2019),6.4,61.0,16627

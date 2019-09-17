@@ -39,10 +39,10 @@ if __name__ == '__main__':
         ratings.extend(ratingsPerUrl)
         metascores.extend(metascoresPerUrl)
         votes.extend(votesPerUrl)
-    dataframe = pd.DataFrame({'Id':range(1,len(movies)+1),
+    dataframe = pd.DataFrame({
                             'MovieName':movies,
                             'ReleaseYear':years,
                             'ImdbRating':ratings,
                             'Metascore':metascores,
-                            'Votes':votes}).set_index('Id')
+                            'Votes':votes}).set_index('MovieName')
     dataframe.to_csv(filename)
